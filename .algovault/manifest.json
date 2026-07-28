@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T04:34:02.200Z",
+  "lastUpdated": "2026-07-28T04:34:06.605Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1857,6 +1857,12 @@
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
+            },
+            "123456789101112131415class solution {    public int numtrees(int n) {        int[] dp = new int[n + 1];        dp[0] = 1;        dp[1] = 1;        for (int i = 2; i <= n; i++) {            for (int j = 1; j <= i; j++) {                dp[i] += dp[j - 1] * dp[i - j];            }        }        return dp[n];    }}": {
+              "syncedAt": 1785213246605,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
             }
           }
         },
@@ -2403,12 +2409,6 @@
               "syncedAt": 1785213116323,
               "runtime": "1 ms",
               "memory": "46.71 MB",
-              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
-            },
-            "1c": {
-              "syncedAt": 1785213242200,
-              "runtime": "1 ms",
-              "memory": "44.77 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
