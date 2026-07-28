@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T04:31:56.323Z",
+  "lastUpdated": "2026-07-28T04:34:02.200Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2403,6 +2403,12 @@
               "syncedAt": 1785213116323,
               "runtime": "1 ms",
               "memory": "46.71 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
+            },
+            "1c": {
+              "syncedAt": 1785213242200,
+              "runtime": "1 ms",
+              "memory": "44.77 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
