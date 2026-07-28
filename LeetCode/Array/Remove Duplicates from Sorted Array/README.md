@@ -5,83 +5,58 @@
 
 ## Problem Statement
 
-Given an integer array nums sorted in non-decreasing order, remove the duplicates in-place such that each unique element appears only once. The relative order of the elements should be kept the same.
+<p>Given an integer array <code>nums</code> sorted in <strong>non-decreasing order</strong>, remove the duplicates <a href="https://en.wikipedia.org/wiki/In-place_algorithm" target="_blank"><strong>in-place</strong></a> such that each unique element appears only <strong>once</strong>. The <strong>relative order</strong> of the elements should be kept the <strong>same</strong>.</p>
 
-Consider the number of unique elements in nums to be k​​​​​​​​​​​​​​. After removing duplicates, return the number of unique elements k.
+<p>Consider the number of <em>unique elements</em> in&nbsp;<code>nums</code> to be <code>k<strong>​​​​​​​</strong></code>​​​​​​​. <meta charset="UTF-8" />After removing duplicates, return the number of unique elements&nbsp;<code>k</code>.</p>
 
-The first k elements of nums should contain the unique numbers in sorted order. The remaining elements beyond index k - 1 can be ignored.
+<p><meta charset="UTF-8" />The first&nbsp;<code>k</code>&nbsp;elements of&nbsp;<code>nums</code>&nbsp;should contain the unique numbers in <strong>sorted order</strong>. The remaining elements beyond index&nbsp;<code>k - 1</code>&nbsp;can be ignored.</p>
 
-Custom Judge:
+<p><strong>Custom Judge:</strong></p>
 
-The judge will test your solution with the following code:
+<p>The judge will test your solution with the following code:</p>
 
+<pre>
 int[] nums = [...]; // Input array
 int[] expectedNums = [...]; // The expected answer with correct length
 
 int k = removeDuplicates(nums); // Calls your implementation
 
 assert k == expectedNums.length;
-for (int i = 0; i < k; i++) {
+for (int i = 0; i &lt; k; i++) {
     assert nums[i] == expectedNums[i];
 }
+</pre>
 
+<p>If all assertions pass, then your solution will be <strong>accepted</strong>.</p>
 
-If all assertions pass, then your solution will be accepted.
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
- 
-Example 1:
-
-Input: nums = [1,1,2]
-Output: 2, nums = [1,2,_]
-Explanation: Your function should return k = 2, with the first two elements of nums being 1 and 2 respectively.
+<pre>
+<strong>Input:</strong> nums = [1,1,2]
+<strong>Output:</strong> 2, nums = [1,2,_]
+<strong>Explanation:</strong> Your function should return k = 2, with the first two elements of nums being 1 and 2 respectively.
 It does not matter what you leave beyond the returned k (hence they are underscores).
+</pre>
 
+<p><strong class="example">Example 2:</strong></p>
 
-Example 2:
-
-Input: nums = [0,0,1,1,1,2,2,3,3,4]
-Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
-Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
+<pre>
+<strong>Input:</strong> nums = [0,0,1,1,1,2,2,3,3,4]
+<strong>Output:</strong> 5, nums = [0,1,2,3,4,_,_,_,_,_]
+<strong>Explanation:</strong> Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
 It does not matter what you leave beyond the returned k (hence they are underscores).
+</pre>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
- 
-Constraints:
+<ul>
+	<li><code>1 &lt;= nums.length &lt;= 3 * 10<sup>4</sup></code></li>
+	<li><code>-100 &lt;= nums[i] &lt;= 100</code></li>
+	<li><code>nums</code> is sorted in <strong>non-decreasing</strong> order.</li>
+</ul>
 
-
-	1 <= nums.length <= 3 * 104
-	-100 <= nums[i] <= 100
-	nums is sorted in non-decreasing order.
-
-## Examples
-
-```
-int[] nums = [...]; // Input array
-int[] expectedNums = [...]; // The expected answer with correct length
-
-int k = removeDuplicates(nums); // Calls your implementation
-
-assert k == expectedNums.length;
-for (int i = 0; i < k; i++) {
-    assert nums[i] == expectedNums[i];
-}
-
-Input: nums = [1,1,2]
-Output: 2, nums = [1,2,_]
-Explanation: Your function should return k = 2, with the first two elements of nums being 1 and 2 respectively.
-It does not matter what you leave beyond the returned k (hence they are underscores).
-
-Input: nums = [0,0,1,1,1,2,2,3,3,4]
-Output: 5, nums = [0,1,2,3,4,_,_,_,_,_]
-Explanation: Your function should return k = 5, with the first five elements of nums being 0, 1, 2, 3, and 4 respectively.
-It does not matter what you leave beyond the returned k (hence they are underscores).
-```
-
-## Constraints
-
-- 1 <= nums.length <= 3 * 104
-- -100 <= nums[i] <= 100
-- nums is sorted in non-decreasing order.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
