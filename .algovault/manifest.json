@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-28T04:34:09.083Z",
+  "lastUpdated": "2026-07-28T04:34:14.141Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1853,9 +1853,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874636328,
+              "syncedAt": 1785213254141,
               "runtime": "0 ms",
-              "memory": "41.8 MB",
+              "memory": "42.2 MB",
               "githubPath": "LeetCode/Math/Unique Binary Search Trees/"
             }
           }
@@ -2403,12 +2403,6 @@
               "syncedAt": 1785213116323,
               "runtime": "1 ms",
               "memory": "46.71 MB",
-              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
-            },
-            "java": {
-              "syncedAt": 1785213249083,
-              "runtime": "1 ms",
-              "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
