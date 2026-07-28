@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-24T06:34:51.273Z",
+  "lastUpdated": "2026-07-28T04:31:56.323Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2386,6 +2386,24 @@
               "runtime": "5 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array": {
+          "questionId": "26",
+          "title": "Remove Duplicates from Sorted Array",
+          "titleSlug": "remove-duplicates-from-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "1234567891011121314class solution {    public int removeduplicates(int[] nums) {        if (nums.length == 0) return 0;        int j = 1;         for (int i = 1; i < nums.length; i++) {            if (nums[i] != nums[i - 1]) {                nums[j] = nums[i];                j++;            }        }        return j;    }}": {
+              "syncedAt": 1785213116323,
+              "runtime": "1 ms",
+              "memory": "46.71 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array/"
             }
           }
         }
