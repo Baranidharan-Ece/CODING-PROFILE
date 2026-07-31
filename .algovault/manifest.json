@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T18:20:17.785Z",
+  "lastUpdated": "2026-07-31T18:20:22.909Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2001,9 +2001,15 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785522017785,
+              "syncedAt": 1784874645412,
               "runtime": "0 ms",
-              "memory": "42.6 MB",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Tree/Same Tree/"
+            },
+            "1234567891011121314151617181920/** * definition for a binary tree node. * public class treenode { *     int val; *     treenode left; *     treenode right; *     treenode() {} *     treenode(int val) { this.val = val; } *     treenode(int val, treenode left, treenode right) { *         this.val = val; *         this.left = left; *         this.right = right; *     } * } */class solution {    public boolean issametree(treenode p, treenode q) {            }}": {
+              "syncedAt": 1785522022909,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Tree/Same Tree/"
             }
           }
