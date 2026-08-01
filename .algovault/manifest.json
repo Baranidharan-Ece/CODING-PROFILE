@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-07-31T18:20:22.909Z",
+  "lastUpdated": "2026-08-01T10:07:34.593Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2441,6 +2441,23 @@
               "runtime": "5 ms",
               "memory": "57.65 MB",
               "githubPath": "LeetCode/Array/Container With Most Water/"
+            }
+          }
+        },
+        "string-to-integer-atoi": {
+          "questionId": "8",
+          "title": "String to Integer (atoi)",
+          "titleSlug": "string-to-integer-atoi",
+          "difficulty": "Medium",
+          "tags": [
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785578854593,
+              "runtime": "1 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/String/String to Integer (atoi)/"
             }
           }
         }
