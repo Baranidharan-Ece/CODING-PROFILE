@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785578854598" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785682463286" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -29,6 +29,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |

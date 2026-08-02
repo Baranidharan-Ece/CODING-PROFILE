@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-01T10:07:34.593Z",
+  "lastUpdated": "2026-08-02T14:54:23.237Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2458,6 +2458,26 @@
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/String/String to Integer (atoi)/"
+            }
+          }
+        },
+        "maximum-gap": {
+          "questionId": "164",
+          "title": "Maximum Gap",
+          "titleSlug": "maximum-gap",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Bucket Sort",
+            "Radix Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785682463237,
+              "runtime": "9 ms",
+              "memory": "57.6 MB",
+              "githubPath": "LeetCode/Array/Maximum Gap/"
             }
           }
         }
