@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-02T14:55:34.535Z",
+  "lastUpdated": "2026-08-03T17:24:05.945Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2496,6 +2496,28 @@
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Find Peak Element/"
+            }
+          }
+        },
+        "stone-game": {
+          "questionId": "877",
+          "title": "Stone Game",
+          "titleSlug": "stone-game",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Dynamic Programming",
+            "Minimax",
+            "Game Theory",
+            "Zero-Sum Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785777845944,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Stone Game/"
             }
           }
         }

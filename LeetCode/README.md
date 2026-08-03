@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785682534587" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785777846000" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -50,6 +50,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
+| 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
 | 955 | [Delete Columns to Make Sorted II](./Array/Delete%20Columns%20to%20Make%20Sorted%20II/) | Medium |
 | 960 | [Delete Columns to Make Sorted III](./Array/Delete%20Columns%20to%20Make%20Sorted%20III/) | Hard |
 | 961 | [N-Repeated Element in Size 2N Array](./Array/N-Repeated%20Element%20in%20Size%202N%20Array/) | Easy |
