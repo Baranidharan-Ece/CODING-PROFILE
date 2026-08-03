@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:53.862Z",
+  "lastUpdated": "2026-08-03T17:42:05.333Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4197,6 +4197,244 @@
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Super Washing Machines/"
+            }
+          }
+        },
+        "continuous-subarray-sum": {
+          "questionId": "523",
+          "title": "Continuous Subarray Sum",
+          "titleSlug": "continuous-subarray-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Prefix Sum",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "29 ms",
+              "memory": "57.2 MB",
+              "githubPath": "LeetCode/Array/Continuous Subarray Sum/"
+            }
+          }
+        },
+        "ipo": {
+          "questionId": "502",
+          "title": "IPO",
+          "titleSlug": "ipo",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "99 ms",
+              "memory": "61.4 MB",
+              "githubPath": "LeetCode/Array/IPO/"
+            }
+          }
+        },
+        "diagonal-traverse": {
+          "questionId": "498",
+          "title": "Diagonal Traverse",
+          "titleSlug": "diagonal-traverse",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "2 ms",
+              "memory": "47.3 MB",
+              "githubPath": "LeetCode/Array/Diagonal Traverse/"
+            }
+          }
+        },
+        "random-point-in-non-overlapping-rectangles": {
+          "questionId": "497",
+          "title": "Random Point in Non-overlapping Rectangles",
+          "titleSlug": "random-point-in-non-overlapping-rectangles",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Binary Search",
+            "Reservoir Sampling",
+            "Prefix Sum",
+            "Ordered Set",
+            "Randomized"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "49 ms",
+              "memory": "50.7 MB",
+              "githubPath": "LeetCode/Array/Random Point in Non-overlapping Rectangles/"
+            }
+          }
+        },
+        "target-sum": {
+          "questionId": "494",
+          "title": "Target Sum",
+          "titleSlug": "target-sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Backtracking",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "2 ms",
+              "memory": "41.7 MB",
+              "githubPath": "LeetCode/Array/Target Sum/"
+            }
+          }
+        },
+        "single-number-iii": {
+          "questionId": "260",
+          "title": "Single Number III",
+          "titleSlug": "single-number-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925332,
+              "runtime": "1 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Single Number III/"
+            }
+          }
+        },
+        "combination-sum-iii": {
+          "questionId": "216",
+          "title": "Combination Sum III",
+          "titleSlug": "combination-sum-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Array/Combination Sum III/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-iv": {
+          "questionId": "188",
+          "title": "Best Time to Buy and Sell Stock IV",
+          "titleSlug": "best-time-to-buy-and-sell-stock-iv",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "3 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock IV/"
+            }
+          }
+        },
+        "house-robber": {
+          "questionId": "198",
+          "title": "House Robber",
+          "titleSlug": "house-robber",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Array/House Robber/"
+            }
+          }
+        },
+        "house-robber-ii": {
+          "questionId": "213",
+          "title": "House Robber II",
+          "titleSlug": "house-robber-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "0 ms",
+              "memory": "41.3 MB",
+              "githubPath": "LeetCode/Array/House Robber II/"
+            }
+          }
+        },
+        "the-skyline-problem": {
+          "questionId": "218",
+          "title": "The Skyline Problem",
+          "titleSlug": "the-skyline-problem",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Binary Indexed Tree",
+            "Segment Tree",
+            "Sweep Line",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "238 ms",
+              "memory": "51.5 MB",
+              "githubPath": "LeetCode/Array/The Skyline Problem/"
+            }
+          }
+        },
+        "transform-to-chessboard": {
+          "questionId": "782",
+          "title": "Transform to Chessboard",
+          "titleSlug": "transform-to-chessboard",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Bit Manipulation",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778925333,
+              "runtime": "1 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Transform to Chessboard/"
             }
           }
         }

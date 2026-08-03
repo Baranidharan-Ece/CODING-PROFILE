@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778913865" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778925336" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -43,11 +43,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
+| 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
+| 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
+| 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
+| 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
+| 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
 | 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
+| 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
@@ -57,14 +63,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 453 | [Minimum Moves to Equal Array Elements](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
+| 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
+| 497 | [Random Point in Non-overlapping Rectangles](./Array/Random%20Point%20in%20Non-overlapping%20Rectangles/) | Medium |
+| 498 | [Diagonal Traverse](./Array/Diagonal%20Traverse/) | Medium |
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
+| 502 | [IPO](./Array/IPO/) | Hard |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
 | 517 | [Super Washing Machines](./Array/Super%20Washing%20Machines/) | Hard |
 | 518 | [Coin Change II](./Array/Coin%20Change%20II/) | Medium |
 | 522 | [Longest Uncommon Subsequence II](./Array/Longest%20Uncommon%20Subsequence%20II/) | Medium |
+| 523 | [Continuous Subarray Sum](./Array/Continuous%20Subarray%20Sum/) | Medium |
 | 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
 | 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
@@ -74,6 +85,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 717 | [1-bit and 2-bit Characters](./Array/1-bit%20and%202-bit%20Characters/) | Easy |
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
+| 782 | [Transform to Chessboard](./Array/Transform%20to%20Chessboard/) | Hard |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
