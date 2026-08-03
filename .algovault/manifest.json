@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:42:17.618Z",
+  "lastUpdated": "2026-08-03T17:42:29.908Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2480,7 +2480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785682463237,
+              "syncedAt": 1785778949906,
               "runtime": "9 ms",
               "memory": "57.6 MB",
               "githubPath": "LeetCode/Array/Maximum Gap/"
@@ -2498,7 +2498,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785682534534,
+              "syncedAt": 1785778949907,
               "runtime": "0 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Find Peak Element/"
@@ -4712,6 +4712,213 @@
               "runtime": "5 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Hash Table/Bulls and Cows/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array-ii": {
+          "questionId": "154",
+          "title": "Find Minimum in Rotated Sorted Array II",
+          "titleSlug": "find-minimum-in-rotated-sorted-array-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949906,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "find-minimum-in-rotated-sorted-array": {
+          "questionId": "153",
+          "title": "Find Minimum in Rotated Sorted Array",
+          "titleSlug": "find-minimum-in-rotated-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949906,
+              "runtime": "0 ms",
+              "memory": "42.7 MB",
+              "githubPath": "LeetCode/Array/Find Minimum in Rotated Sorted Array/"
+            }
+          }
+        },
+        "maximum-product-subarray": {
+          "questionId": "152",
+          "title": "Maximum Product Subarray",
+          "titleSlug": "maximum-product-subarray",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "2 ms",
+              "memory": "44.9 MB",
+              "githubPath": "LeetCode/Array/Maximum Product Subarray/"
+            }
+          }
+        },
+        "basic-calculator-ii": {
+          "questionId": "227",
+          "title": "Basic Calculator II",
+          "titleSlug": "basic-calculator-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String",
+            "Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "25 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Math/Basic Calculator II/"
+            }
+          }
+        },
+        "basic-calculator": {
+          "questionId": "224",
+          "title": "Basic Calculator",
+          "titleSlug": "basic-calculator",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "14 ms",
+              "memory": "44.5 MB",
+              "githubPath": "LeetCode/Math/Basic Calculator/"
+            }
+          }
+        },
+        "can-i-win": {
+          "questionId": "464",
+          "title": "Can I Win",
+          "titleSlug": "can-i-win",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Memoization",
+            "Game Theory",
+            "Bitmask"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "329 ms",
+              "memory": "87.5 MB",
+              "githubPath": "LeetCode/Math/Can I Win/"
+            }
+          }
+        },
+        "two-sum-ii-input-array-is-sorted": {
+          "questionId": "167",
+          "title": "Two Sum II - Input Array Is Sorted",
+          "titleSlug": "two-sum-ii-input-array-is-sorted",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "2 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            }
+          }
+        },
+        "rotate-array": {
+          "questionId": "189",
+          "title": "Rotate Array",
+          "titleSlug": "rotate-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "0 ms",
+              "memory": "57.6 MB",
+              "githubPath": "LeetCode/Array/Rotate Array/"
+            }
+          }
+        },
+        "insert-interval": {
+          "questionId": "57",
+          "title": "Insert Interval",
+          "titleSlug": "insert-interval",
+          "difficulty": "Medium",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "1 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Array/Insert Interval/"
+            }
+          }
+        },
+        "remove-duplicates-from-sorted-array-ii": {
+          "questionId": "80",
+          "title": "Remove Duplicates from Sorted Array II",
+          "titleSlug": "remove-duplicates-from-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949907,
+              "runtime": "0 ms",
+              "memory": "46.8 MB",
+              "githubPath": "LeetCode/Array/Remove Duplicates from Sorted Array II/"
+            }
+          }
+        },
+        "spiral-matrix-ii": {
+          "questionId": "59",
+          "title": "Spiral Matrix II",
+          "titleSlug": "spiral-matrix-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778949908,
+              "runtime": "0 ms",
+              "memory": "41.4 MB",
+              "githubPath": "LeetCode/Array/Spiral Matrix II/"
             }
           }
         }

@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778937623" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778949912" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -29,8 +29,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 48 | [Rotate Image](./Array/Rotate%20Image/) | Medium |
 | 49 | [Group Anagrams](./Array/Group%20Anagrams/) | Medium |
 | 51 | [N-Queens](./Array/N-Queens/) | Hard |
+| 57 | [Insert Interval](./Array/Insert%20Interval/) | Medium |
+| 59 | [Spiral Matrix II](./Array/Spiral%20Matrix%20II/) | Medium |
 | 66 | [Plus One](./Array/Plus%20One/) | Easy |
 | 73 | [Set Matrix Zeroes](./Array/Set%20Matrix%20Zeroes/) | Medium |
+| 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
 | 119 | [Pascal's Triangle II](./Array/Pascal's%20Triangle%20II/) | Easy |
@@ -40,10 +43,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 128 | [Longest Consecutive Sequence](./Array/Longest%20Consecutive%20Sequence/) | Medium |
 | 134 | [Gas Station](./Array/Gas%20Station/) | Medium |
 | 136 | [Single Number](./Array/Single%20Number/) | Easy |
+| 152 | [Maximum Product Subarray](./Array/Maximum%20Product%20Subarray/) | Medium |
+| 153 | [Find Minimum in Rotated Sorted Array](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array/) | Medium |
+| 154 | [Find Minimum in Rotated Sorted Array II](./Array/Find%20Minimum%20in%20Rotated%20Sorted%20Array%20II/) | Hard |
 | 162 | [Find Peak Element](./Array/Find%20Peak%20Element/) | Medium |
 | 164 | [Maximum Gap](./Array/Maximum%20Gap/) | Medium |
+| 167 | [Two Sum II - Input Array Is Sorted](./Array/Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/) | Medium |
 | 169 | [Majority Element](./Array/Majority%20Element/) | Easy |
 | 188 | [Best Time to Buy and Sell Stock IV](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20IV/) | Hard |
+| 189 | [Rotate Array](./Array/Rotate%20Array/) | Medium |
 | 198 | [House Robber](./Array/House%20Robber/) | Medium |
 | 209 | [Minimum Size Subarray Sum](./Array/Minimum%20Size%20Subarray%20Sum/) | Medium |
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
@@ -296,6 +304,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
+| 224 | [Basic Calculator](./Math/Basic%20Calculator/) | Hard |
+| 227 | [Basic Calculator II](./Math/Basic%20Calculator%20II/) | Medium |
 | 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
@@ -304,6 +314,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 372 | [Super Pow](./Math/Super%20Pow/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
+| 464 | [Can I Win](./Math/Can%20I%20Win/) | Medium |
 | 556 | [Next Greater Element III](./Math/Next%20Greater%20Element%20III/) | Medium |
 | 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
