@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778904855" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778913865" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -62,6 +62,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
+| 517 | [Super Washing Machines](./Array/Super%20Washing%20Machines/) | Hard |
+| 518 | [Coin Change II](./Array/Coin%20Change%20II/) | Medium |
+| 522 | [Longest Uncommon Subsequence II](./Array/Longest%20Uncommon%20Subsequence%20II/) | Medium |
+| 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
+| 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
@@ -116,6 +121,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3074 | [Apple Redistribution into Boxes](./Array/Apple%20Redistribution%20into%20Boxes/) | Easy |
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
+| 3289 | [The Two Sneaky Numbers of Digitville](./Array/The%20Two%20Sneaky%20Numbers%20of%20Digitville/) | Easy |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3318 | [Find X-Sum of All K-Long Subarrays I](./Array/Find%20X-Sum%20of%20All%20K-Long%20Subarrays%20I/) | Easy |
 | 3381 | [Maximum Subarray Sum With Length Divisible by K](./Array/Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/) | Medium |
@@ -269,12 +275,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
+| 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 372 | [Super Pow](./Math/Super%20Pow/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
+| 556 | [Next Greater Element III](./Math/Next%20Greater%20Element%20III/) | Medium |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:44.852Z",
+  "lastUpdated": "2026-08-03T17:41:53.862Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4046,6 +4046,157 @@
               "runtime": "8 ms",
               "memory": "92.9 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
+            }
+          }
+        },
+        "the-two-sneaky-numbers-of-digitville": {
+          "questionId": "3289",
+          "title": "The Two Sneaky Numbers of Digitville",
+          "titleSlug": "the-two-sneaky-numbers-of-digitville",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913861,
+              "runtime": "1 ms",
+              "memory": "45.5 MB",
+              "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
+            }
+          }
+        },
+        "next-greater-element-iii": {
+          "questionId": "556",
+          "title": "Next Greater Element III",
+          "titleSlug": "next-greater-element-iii",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Two Pointers",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913861,
+              "runtime": "0 ms",
+              "memory": "40.4 MB",
+              "githubPath": "LeetCode/Math/Next Greater Element III/"
+            }
+          }
+        },
+        "factorial-trailing-zeroes": {
+          "questionId": "172",
+          "title": "Factorial Trailing Zeroes",
+          "titleSlug": "factorial-trailing-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913861,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
+            }
+          }
+        },
+        "single-element-in-a-sorted-array": {
+          "questionId": "540",
+          "title": "Single Element in a Sorted Array",
+          "titleSlug": "single-element-in-a-sorted-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913862,
+              "runtime": "0 ms",
+              "memory": "50.2 MB",
+              "githubPath": "LeetCode/Array/Single Element in a Sorted Array/"
+            }
+          }
+        },
+        "remove-boxes": {
+          "questionId": "546",
+          "title": "Remove Boxes",
+          "titleSlug": "remove-boxes",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913862,
+              "runtime": "23 ms",
+              "memory": "54.8 MB",
+              "githubPath": "LeetCode/Array/Remove Boxes/"
+            }
+          }
+        },
+        "longest-uncommon-subsequence-ii": {
+          "questionId": "522",
+          "title": "Longest Uncommon Subsequence II",
+          "titleSlug": "longest-uncommon-subsequence-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913862,
+              "runtime": "1 ms",
+              "memory": "41 MB",
+              "githubPath": "LeetCode/Array/Longest Uncommon Subsequence II/"
+            }
+          }
+        },
+        "coin-change-ii": {
+          "questionId": "518",
+          "title": "Coin Change II",
+          "titleSlug": "coin-change-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "Complete Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913862,
+              "runtime": "5 ms",
+              "memory": "41.6 MB",
+              "githubPath": "LeetCode/Array/Coin Change II/"
+            }
+          }
+        },
+        "super-washing-machines": {
+          "questionId": "517",
+          "title": "Super Washing Machines",
+          "titleSlug": "super-washing-machines",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778913862,
+              "runtime": "0 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Super Washing Machines/"
             }
           }
         }
