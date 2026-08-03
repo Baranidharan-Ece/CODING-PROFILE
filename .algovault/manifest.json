@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:38:14.113Z",
+  "lastUpdated": "2026-08-03T17:38:23.019Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -609,7 +609,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -627,7 +627,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "4 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
@@ -645,7 +645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Rectangle Overlap/"
@@ -663,7 +663,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Semi-Ordered Permutation/"
@@ -682,7 +682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
@@ -701,7 +701,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "52 ms",
               "memory": "93 MB",
               "githubPath": "LeetCode/Array/Maximum Erasure Value/"
@@ -720,7 +720,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "20 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -738,7 +738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778703019,
               "runtime": "14 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -756,7 +756,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506159,
+              "syncedAt": 1785778703019,
               "runtime": "5 ms",
               "memory": "69.9 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -774,7 +774,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874529212,
+              "syncedAt": 1785778703019,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
