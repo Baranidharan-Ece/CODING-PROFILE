@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778818533" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778834205" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -37,6 +37,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
@@ -72,6 +73,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Array/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) | Easy |
 | 2054 | [Two Best Non-Overlapping Events](./Array/Two%20Best%20Non-Overlapping%20Events/) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
+| 2110 | [Number of Smooth Descent Periods of a Stock](./Array/Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/) | Medium |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2402 | [Meeting Rooms III](./Array/Meeting%20Rooms%20III/) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
@@ -84,8 +86,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
+| 3433 | [Count Mentions Per User](./Array/Count%20Mentions%20Per%20User/) | Medium |
 | 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
+| 3531 | [Count Covered Buildings](./Array/Count%20Covered%20Buildings/) | Medium |
+| 3562 | [Maximum Profit from Trading Stocks with Discounts](./Array/Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts/) | Hard |
+| 3573 | [Best Time to Buy and Sell Stock V](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V/) | Medium |
+| 3577 | [Count the Number of Computer Unlocking Permutations](./Array/Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations/) | Medium |
+| 3583 | [Count Special Triplets](./Array/Count%20Special%20Triplets/) | Medium |
+| 3606 | [Coupon Code Validator](./Array/Coupon%20Code%20Validator/) | Easy |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
+| 3652 | [Best Time to Buy and Sell Stock using Strategy](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/) | Medium |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
 
@@ -131,6 +141,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1873 | [Calculate Special Bonus](./Database/Calculate%20Special%20Bonus/) | Easy |
 | 1978 | [Employees Whose Manager Left the Company](./Database/Employees%20Whose%20Manager%20Left%20the%20Company/) | Easy |
 | 2356 | [Number of Unique Subjects Taught by Each Teacher](./Database/Number%20of%20Unique%20Subjects%20Taught%20by%20Each%20Teacher/) | Easy |
+
+</details>
+
+
+### Depth-First Search
+<details>
+<summary>Click to expand Depth-First Search problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 2092 | [Find All People With Secret](./Depth-First%20Search/Find%20All%20People%20With%20Secret/) | Hard |
 
 </details>
 
@@ -191,6 +212,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
+| 1523 | [Count Odd Numbers in an Interval Range](./Math/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) | Easy |
+| 1925 | [Count Square Sum Triples](./Math/Count%20Square%20Sum%20Triples/) | Easy |
+| 2147 | [Number of Ways to Divide a Long Corridor](./Math/Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/) | Hard |
 | 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
 
 </details>

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:18.530Z",
+  "lastUpdated": "2026-08-03T17:40:34.202Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2543,6 +2543,278 @@
               "runtime": "8 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Delete Columns to Make Sorted/"
+            }
+          }
+        },
+        "find-all-people-with-secret": {
+          "questionId": "2092",
+          "title": "Find All People With Secret",
+          "titleSlug": "find-all-people-with-secret",
+          "difficulty": "Hard",
+          "tags": [
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834201,
+              "runtime": "63 ms",
+              "memory": "192.1 MB",
+              "githubPath": "LeetCode/Depth-First Search/Find All People With Secret/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-using-strategy": {
+          "questionId": "3652",
+          "title": "Best Time to Buy and Sell Stock using Strategy",
+          "titleSlug": "best-time-to-buy-and-sell-stock-using-strategy",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834201,
+              "runtime": "5 ms",
+              "memory": "96.4 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock using Strategy/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-v": {
+          "questionId": "3573",
+          "title": "Best Time to Buy and Sell Stock V",
+          "titleSlug": "best-time-to-buy-and-sell-stock-v",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "230 ms",
+              "memory": "280.4 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock V/"
+            }
+          }
+        },
+        "maximum-profit-from-trading-stocks-with-discounts": {
+          "questionId": "3562",
+          "title": "Maximum Profit from Trading Stocks with Discounts",
+          "titleSlug": "maximum-profit-from-trading-stocks-with-discounts",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Tree",
+            "Depth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "340 ms",
+              "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Maximum Profit from Trading Stocks with Discounts/"
+            }
+          }
+        },
+        "number-of-smooth-descent-periods-of-a-stock": {
+          "questionId": "2110",
+          "title": "Number of Smooth Descent Periods of a Stock",
+          "titleSlug": "number-of-smooth-descent-periods-of-a-stock",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Two Pointers",
+            "Dynamic Programming",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "2 ms",
+              "memory": "84 MB",
+              "githubPath": "LeetCode/Array/Number of Smooth Descent Periods of a Stock/"
+            }
+          }
+        },
+        "number-of-ways-to-divide-a-long-corridor": {
+          "questionId": "2147",
+          "title": "Number of Ways to Divide a Long Corridor",
+          "titleSlug": "number-of-ways-to-divide-a-long-corridor",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "32 ms",
+              "memory": "58.9 MB",
+              "githubPath": "LeetCode/Math/Number of Ways to Divide a Long Corridor/"
+            }
+          }
+        },
+        "coupon-code-validator": {
+          "questionId": "3606",
+          "title": "Coupon Code Validator",
+          "titleSlug": "coupon-code-validator",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "11 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Coupon Code Validator/"
+            }
+          }
+        },
+        "count-mentions-per-user": {
+          "questionId": "3433",
+          "title": "Count Mentions Per User",
+          "titleSlug": "count-mentions-per-user",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Sorting",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "24 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Count Mentions Per User/"
+            }
+          }
+        },
+        "count-covered-buildings": {
+          "questionId": "3531",
+          "title": "Count Covered Buildings",
+          "titleSlug": "count-covered-buildings",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "285 ms",
+              "memory": "283.2 MB",
+              "githubPath": "LeetCode/Array/Count Covered Buildings/"
+            }
+          }
+        },
+        "intersection-of-two-arrays-ii": {
+          "questionId": "350",
+          "title": "Intersection of Two Arrays II",
+          "titleSlug": "intersection-of-two-arrays-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "6 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays II/"
+            }
+          }
+        },
+        "count-the-number-of-computer-unlocking-permutations": {
+          "questionId": "3577",
+          "title": "Count the Number of Computer Unlocking Permutations",
+          "titleSlug": "count-the-number-of-computer-unlocking-permutations",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Brainteaser",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "2 ms",
+              "memory": "92.2 MB",
+              "githubPath": "LeetCode/Array/Count the Number of Computer Unlocking Permutations/"
+            }
+          }
+        },
+        "count-special-triplets": {
+          "questionId": "3583",
+          "title": "Count Special Triplets",
+          "titleSlug": "count-special-triplets",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "191 ms",
+              "memory": "276 MB",
+              "githubPath": "LeetCode/Array/Count Special Triplets/"
+            }
+          }
+        },
+        "count-square-sum-triples": {
+          "questionId": "1925",
+          "title": "Count Square Sum Triples",
+          "titleSlug": "count-square-sum-triples",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "13 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Count Square Sum Triples/"
+            }
+          }
+        },
+        "count-odd-numbers-in-an-interval-range": {
+          "questionId": "1523",
+          "title": "Count Odd Numbers in an Interval Range",
+          "titleSlug": "count-odd-numbers-in-an-interval-range",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778834202,
+              "runtime": "812 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Count Odd Numbers in an Interval Range/"
             }
           }
         }
