@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779061827" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779078934" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -50,6 +50,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 79 | [Word Search](./Array/Word%20Search/) | Medium |
 | 80 | [Remove Duplicates from Sorted Array II](./Array/Remove%20Duplicates%20from%20Sorted%20Array%20II/) | Medium |
 | 81 | [Search in Rotated Sorted Array II](./Array/Search%20in%20Rotated%20Sorted%20Array%20II/) | Medium |
+| 88 | [Merge Sorted Array](./Array/Merge%20Sorted%20Array/) | Easy |
 | 90 | [Subsets II](./Array/Subsets%20II/) | Medium |
 | 108 | [Convert Sorted Array to Binary Search Tree](./Array/Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/) | Easy |
 | 118 | [Pascal's Triangle](./Array/Pascal's%20Triangle/) | Easy |
@@ -86,9 +87,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
+| 238 | [Product of Array Except Self](./Array/Product%20of%20Array%20Except%20Self/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
+| 268 | [Missing Number](./Array/Missing%20Number/) | Easy |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
+| 283 | [Move Zeroes](./Array/Move%20Zeroes/) | Easy |
 | 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
 | 300 | [Longest Increasing Subsequence](./Array/Longest%20Increasing%20Subsequence/) | Medium |
@@ -102,12 +106,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
+| 414 | [Third Maximum Number](./Array/Third%20Maximum%20Number/) | Easy |
 | 448 | [Find All Numbers Disappeared in an Array](./Array/Find%20All%20Numbers%20Disappeared%20in%20an%20Array/) | Easy |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./Array/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/) | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 463 | [Island Perimeter](./Array/Island%20Perimeter/) | Easy |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
+| 485 | [Max Consecutive Ones](./Array/Max%20Consecutive%20Ones/) | Easy |
 | 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
 | 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
@@ -128,6 +134,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 704 | [Binary Search](./Array/Binary%20Search/) | Easy |
 | 717 | [1-bit and 2-bit Characters](./Array/1-bit%20and%202-bit%20Characters/) | Easy |
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
@@ -173,6 +180,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./Array/Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K/) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
 | 2528 | [Maximize the Minimum Powered City](./Array/Maximize%20the%20Minimum%20Powered%20City/) | Hard |
+| 2529 | [Maximum Count of Positive Integer and Negative Integer](./Array/Maximum%20Count%20of%20Positive%20Integer%20and%20Negative%20Integer/) | Easy |
 | 2536 | [Increment Submatrices by One](./Array/Increment%20Submatrices%20by%20One/) | Medium |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/) | Easy |
 | 2654 | [Minimum Number of Operations to Make All Array Elements Equal to 1](./Array/Minimum%20Number%20of%20Operations%20to%20Make%20All%20Array%20Elements%20Equal%20to%201/) | Medium |
@@ -180,6 +188,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 3005 | [Count Elements With Maximum Frequency](./Array/Count%20Elements%20With%20Maximum%20Frequency/) | Easy |
 | 3074 | [Apple Redistribution into Boxes](./Array/Apple%20Redistribution%20into%20Boxes/) | Easy |
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
 | 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
@@ -358,6 +367,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 227 | [Basic Calculator II](./Math/Basic%20Calculator%20II/) | Medium |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
+| 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
 | 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |

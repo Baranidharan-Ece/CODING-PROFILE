@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:44:21.818Z",
+  "lastUpdated": "2026-08-03T17:44:38.929Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6207,6 +6207,191 @@
               "runtime": "35 ms",
               "memory": "58.8 MB",
               "githubPath": "LeetCode/Array/Find the Duplicate Number/"
+            }
+          }
+        },
+        "merge-sorted-array": {
+          "questionId": "88",
+          "title": "Merge Sorted Array",
+          "titleSlug": "merge-sorted-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078927,
+              "runtime": "0 ms",
+              "memory": "42.5 MB",
+              "githubPath": "LeetCode/Array/Merge Sorted Array/"
+            }
+          }
+        },
+        "third-maximum-number": {
+          "questionId": "414",
+          "title": "Third Maximum Number",
+          "titleSlug": "third-maximum-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078927,
+              "runtime": "3 ms",
+              "memory": "43.7 MB",
+              "githubPath": "LeetCode/Array/Third Maximum Number/"
+            }
+          }
+        },
+        "max-consecutive-ones": {
+          "questionId": "485",
+          "title": "Max Consecutive Ones",
+          "titleSlug": "max-consecutive-ones",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078927,
+              "runtime": "3 ms",
+              "memory": "50.6 MB",
+              "githubPath": "LeetCode/Array/Max Consecutive Ones/"
+            }
+          }
+        },
+        "move-zeroes": {
+          "questionId": "283",
+          "title": "Move Zeroes",
+          "titleSlug": "move-zeroes",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Two Pointers"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078927,
+              "runtime": "2 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/Move Zeroes/"
+            }
+          }
+        },
+        "binary-search": {
+          "questionId": "704",
+          "title": "Binary Search",
+          "titleSlug": "binary-search",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078927,
+              "runtime": "0 ms",
+              "memory": "45.8 MB",
+              "githubPath": "LeetCode/Array/Binary Search/"
+            }
+          }
+        },
+        "count-elements-with-maximum-frequency": {
+          "questionId": "3005",
+          "title": "Count Elements With Maximum Frequency",
+          "titleSlug": "count-elements-with-maximum-frequency",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078928,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Array/Count Elements With Maximum Frequency/"
+            }
+          }
+        },
+        "missing-number": {
+          "questionId": "268",
+          "title": "Missing Number",
+          "titleSlug": "missing-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Binary Search",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078928,
+              "runtime": "0 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Missing Number/"
+            }
+          }
+        },
+        "product-of-array-except-self": {
+          "questionId": "238",
+          "title": "Product of Array Except Self",
+          "titleSlug": "product-of-array-except-self",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078928,
+              "runtime": "2 ms",
+              "memory": "55.6 MB",
+              "githubPath": "LeetCode/Array/Product of Array Except Self/"
+            }
+          }
+        },
+        "maximum-count-of-positive-integer-and-negative-integer": {
+          "questionId": "2529",
+          "title": "Maximum Count of Positive Integer and Negative Integer",
+          "titleSlug": "maximum-count-of-positive-integer-and-negative-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078929,
+              "runtime": "1 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Maximum Count of Positive Integer and Negative Integer/"
+            }
+          }
+        },
+        "ugly-number": {
+          "questionId": "263",
+          "title": "Ugly Number",
+          "titleSlug": "ugly-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779078929,
+              "runtime": "1 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Ugly Number/"
             }
           }
         }
