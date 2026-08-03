@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:24:05.945Z",
+  "lastUpdated": "2026-08-03T17:26:49.123Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -56,7 +56,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778009123,
               "runtime": "36 ms",
               "memory": "146.8 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
