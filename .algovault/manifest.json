@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:44:38.929Z",
+  "lastUpdated": "2026-08-03T17:44:47.532Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6392,6 +6392,120 @@
               "runtime": "1 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Ugly Number/"
+            }
+          }
+        },
+        "sum-of-number-and-its-reverse": {
+          "questionId": "2443",
+          "title": "Sum of Number and Its Reverse",
+          "titleSlug": "sum-of-number-and-its-reverse",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087531,
+              "runtime": "149 ms",
+              "memory": "40.2 MB",
+              "githubPath": "LeetCode/Math/Sum of Number and Its Reverse/"
+            }
+          }
+        },
+        "happy-number": {
+          "questionId": "202",
+          "title": "Happy Number",
+          "titleSlug": "happy-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Two Pointers",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087531,
+              "runtime": "0 ms",
+              "memory": "40.9 MB",
+              "githubPath": "LeetCode/Hash Table/Happy Number/"
+            }
+          }
+        },
+        "add-digits": {
+          "questionId": "258",
+          "title": "Add Digits",
+          "titleSlug": "add-digits",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087532,
+              "runtime": "1 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Add Digits/"
+            }
+          }
+        },
+        "nim-game": {
+          "questionId": "292",
+          "title": "Nim Game",
+          "titleSlug": "nim-game",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Brainteaser",
+            "Minimax",
+            "Game Theory",
+            "Nim Game",
+            "Impartial Game"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087532,
+              "runtime": "0 ms",
+              "memory": "40.1 MB",
+              "githubPath": "LeetCode/Math/Nim Game/"
+            }
+          }
+        },
+        "number-of-steps-to-reduce-a-number-to-zero": {
+          "questionId": "1342",
+          "title": "Number of Steps to Reduce a Number to Zero",
+          "titleSlug": "number-of-steps-to-reduce-a-number-to-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087532,
+              "runtime": "0 ms",
+              "memory": "40.6 MB",
+              "githubPath": "LeetCode/Math/Number of Steps to Reduce a Number to Zero/"
+            }
+          }
+        },
+        "palindrome-number": {
+          "questionId": "9",
+          "title": "Palindrome Number",
+          "titleSlug": "palindrome-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779087532,
+              "runtime": "5 ms",
+              "memory": "43.9 MB",
+              "githubPath": "LeetCode/Math/Palindrome Number/"
             }
           }
         }

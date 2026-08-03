@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779078934" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779087538" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -311,6 +311,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
+| 202 | [Happy Number](./Hash%20Table/Happy%20Number/) | Easy |
 | 205 | [Isomorphic Strings](./Hash%20Table/Isomorphic%20Strings/) | Easy |
 | 242 | [Valid Anagram](./Hash%20Table/Valid%20Anagram/) | Easy |
 | 264 | [Ugly Number II](./Hash%20Table/Ugly%20Number%20II/) | Medium |
@@ -350,6 +351,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 7 | [Reverse Integer](./Math/Reverse%20Integer/) | Medium |
+| 9 | [Palindrome Number](./Math/Palindrome%20Number/) | Easy |
 | 29 | [Divide Two Integers](./Math/Divide%20Two%20Integers/) | Medium |
 | 43 | [Multiply Strings](./Math/Multiply%20Strings/) | Medium |
 | 50 | [Pow(x, n)](./Math/Pow(x,%20n)/) | Medium |
@@ -367,8 +369,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 227 | [Basic Calculator II](./Math/Basic%20Calculator%20II/) | Medium |
 | 231 | [Power of Two](./Math/Power%20of%20Two/) | Easy |
 | 233 | [Number of Digit One](./Math/Number%20of%20Digit%20One/) | Hard |
+| 258 | [Add Digits](./Math/Add%20Digits/) | Easy |
 | 263 | [Ugly Number](./Math/Ugly%20Number/) | Easy |
 | 279 | [Perfect Squares](./Math/Perfect%20Squares/) | Medium |
+| 292 | [Nim Game](./Math/Nim%20Game/) | Easy |
 | 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
@@ -388,6 +392,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 780 | [Reaching Points](./Math/Reaching%20Points/) | Hard |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
+| 1342 | [Number of Steps to Reduce a Number to Zero](./Math/Number%20of%20Steps%20to%20Reduce%20a%20Number%20to%20Zero/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
 | 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
 | 1523 | [Count Odd Numbers in an Interval Range](./Math/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) | Easy |
@@ -396,6 +401,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2147 | [Number of Ways to Divide a Long Corridor](./Math/Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/) | Hard |
 | 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
 | 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
+| 2443 | [Sum of Number and Its Reverse](./Math/Sum%20of%20Number%20and%20Its%20Reverse/) | Medium |
 | 3099 | [Harshad Number](./Math/Harshad%20Number/) | Easy |
 | 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 | 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
