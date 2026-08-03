@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:17.000Z",
+  "lastUpdated": "2026-08-03T17:41:28.058Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3541,6 +3541,252 @@
               "runtime": "3 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock-ii": {
+          "questionId": "122",
+          "title": "Best Time to Buy and Sell Stock II",
+          "titleSlug": "best-time-to-buy-and-sell-stock-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "0 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock II/"
+            }
+          }
+        },
+        "best-time-to-buy-and-sell-stock": {
+          "questionId": "121",
+          "title": "Best Time to Buy and Sell Stock",
+          "titleSlug": "best-time-to-buy-and-sell-stock",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "1 ms",
+              "memory": "94.5 MB",
+              "githubPath": "LeetCode/Array/Best Time to Buy and Sell Stock/"
+            }
+          }
+        },
+        "gas-station": {
+          "questionId": "134",
+          "title": "Gas Station",
+          "titleSlug": "gas-station",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "3 ms",
+              "memory": "119.2 MB",
+              "githubPath": "LeetCode/Array/Gas Station/"
+            }
+          }
+        },
+        "search-in-rotated-sorted-array-ii": {
+          "questionId": "81",
+          "title": "Search in Rotated Sorted Array II",
+          "titleSlug": "search-in-rotated-sorted-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "0 ms",
+              "memory": "45 MB",
+              "githubPath": "LeetCode/Array/Search in Rotated Sorted Array II/"
+            }
+          }
+        },
+        "longest-common-prefix": {
+          "questionId": "14",
+          "title": "Longest Common Prefix",
+          "titleSlug": "longest-common-prefix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "0 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/Longest Common Prefix/"
+            }
+          }
+        },
+        "3sum": {
+          "questionId": "15",
+          "title": "3Sum",
+          "titleSlug": "3sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "33 ms",
+              "memory": "59.2 MB",
+              "githubPath": "LeetCode/Array/3Sum/"
+            }
+          }
+        },
+        "4sum": {
+          "questionId": "18",
+          "title": "4Sum",
+          "titleSlug": "4sum",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888057,
+              "runtime": "16 ms",
+              "memory": "45.9 MB",
+              "githubPath": "LeetCode/Array/4Sum/"
+            }
+          }
+        },
+        "count-operations-to-obtain-zero": {
+          "questionId": "2169",
+          "title": "Count Operations to Obtain Zero",
+          "titleSlug": "count-operations-to-obtain-zero",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "0 ms",
+              "memory": "42.3 MB",
+              "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
+            }
+          }
+        },
+        "kth-largest-element-in-an-array": {
+          "questionId": "215",
+          "title": "Kth Largest Element in an Array",
+          "titleSlug": "kth-largest-element-in-an-array",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Divide and Conquer",
+            "Sorting",
+            "Heap (Priority Queue)",
+            "Quickselect"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "26 ms",
+              "memory": "69.9 MB",
+              "githubPath": "LeetCode/Array/Kth Largest Element in an Array/"
+            }
+          }
+        },
+        "maximal-square": {
+          "questionId": "221",
+          "title": "Maximal Square",
+          "titleSlug": "maximal-square",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "8 ms",
+              "memory": "70.6 MB",
+              "githubPath": "LeetCode/Array/Maximal Square/"
+            }
+          }
+        },
+        "minimum-one-bit-operations-to-make-integers-zero": {
+          "questionId": "1611",
+          "title": "Minimum One Bit Operations to Make Integers Zero",
+          "titleSlug": "minimum-one-bit-operations-to-make-integers-zero",
+          "difficulty": "Hard",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Bit Manipulation",
+            "Recursion",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "0 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
+            }
+          }
+        },
+        "minimum-moves-to-equal-array-elements": {
+          "questionId": "453",
+          "title": "Minimum Moves to Equal Array Elements",
+          "titleSlug": "minimum-moves-to-equal-array-elements",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "2 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements/"
+            }
+          }
+        },
+        "minimum-number-of-arrows-to-burst-balloons": {
+          "questionId": "452",
+          "title": "Minimum Number of Arrows to Burst Balloons",
+          "titleSlug": "minimum-number-of-arrows-to-burst-balloons",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778888058,
+              "runtime": "51 ms",
+              "memory": "95.7 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Arrows to Burst Balloons/"
             }
           }
         }
