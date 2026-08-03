@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779036560" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785779061827" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -21,6 +21,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 11 | [Container With Most Water](./Array/Container%20With%20Most%20Water/) | Medium |
 | 14 | [Longest Common Prefix](./Array/Longest%20Common%20Prefix/) | Easy |
 | 15 | [3Sum](./Array/3Sum/) | Medium |
+| 16 | [3Sum Closest](./Array/3Sum%20Closest/) | Medium |
 | 18 | [4Sum](./Array/4Sum/) | Medium |
 | 26 | [Remove Duplicates from Sorted Array](./Array/Remove%20Duplicates%20from%20Sorted%20Array/) | Easy |
 | 27 | [Remove Element](./Array/Remove%20Element/) | Easy |
@@ -79,13 +80,16 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 213 | [House Robber II](./Array/House%20Robber%20II/) | Medium |
 | 215 | [Kth Largest Element in an Array](./Array/Kth%20Largest%20Element%20in%20an%20Array/) | Medium |
 | 216 | [Combination Sum III](./Array/Combination%20Sum%20III/) | Medium |
+| 217 | [Contains Duplicate](./Array/Contains%20Duplicate/) | Easy |
 | 218 | [The Skyline Problem](./Array/The%20Skyline%20Problem/) | Hard |
+| 219 | [Contains Duplicate II](./Array/Contains%20Duplicate%20II/) | Easy |
 | 221 | [Maximal Square](./Array/Maximal%20Square/) | Medium |
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 229 | [Majority Element II](./Array/Majority%20Element%20II/) | Medium |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
+| 287 | [Find the Duplicate Number](./Array/Find%20the%20Duplicate%20Number/) | Medium |
 | 289 | [Game of Life](./Array/Game%20of%20Life/) | Medium |
 | 300 | [Longest Increasing Subsequence](./Array/Longest%20Increasing%20Subsequence/) | Medium |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
@@ -94,6 +98,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
 | 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
+| 349 | [Intersection of Two Arrays](./Array/Intersection%20of%20Two%20Arrays/) | Easy |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
 | 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
@@ -131,6 +136,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
+| 896 | [Monotonic Array](./Array/Monotonic%20Array/) | Easy |
 | 944 | [Delete Columns to Make Sorted](./Array/Delete%20Columns%20to%20Make%20Sorted/) | Easy |
 | 955 | [Delete Columns to Make Sorted II](./Array/Delete%20Columns%20to%20Make%20Sorted%20II/) | Medium |
 | 960 | [Delete Columns to Make Sorted III](./Array/Delete%20Columns%20to%20Make%20Sorted%20III/) | Hard |
@@ -152,6 +158,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1636 | [Sort Array by Increasing Frequency](./Array/Sort%20Array%20by%20Increasing%20Frequency/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
+| 1929 | [Concatenation of Array](./Array/Concatenation%20of%20Array/) | Easy |
 | 1967 | [Number of Strings That Appear as Substrings in Word](./Array/Number%20of%20Strings%20That%20Appear%20as%20Substrings%20in%20Word/) | Easy |
 | 1975 | [Maximum Matrix Sum](./Array/Maximum%20Matrix%20Sum/) | Medium |
 | 1984 | [Minimum Difference Between Highest and Lowest of K Scores](./Array/Minimum%20Difference%20Between%20Highest%20and%20Lowest%20of%20K%20Scores/) | Easy |
@@ -372,11 +379,14 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
+| 1518 | [Water Bottles](./Math/Water%20Bottles/) | Easy |
 | 1523 | [Count Odd Numbers in an Interval Range](./Math/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) | Easy |
 | 1611 | [Minimum One Bit Operations to Make Integers Zero](./Math/Minimum%20One%20Bit%20Operations%20to%20Make%20Integers%20Zero/) | Hard |
 | 1925 | [Count Square Sum Triples](./Math/Count%20Square%20Sum%20Triples/) | Easy |
 | 2147 | [Number of Ways to Divide a Long Corridor](./Math/Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/) | Hard |
 | 2169 | [Count Operations to Obtain Zero](./Math/Count%20Operations%20to%20Obtain%20Zero/) | Easy |
+| 2235 | [Add Two Integers](./Math/Add%20Two%20Integers/) | Easy |
+| 3099 | [Harshad Number](./Math/Harshad%20Number/) | Easy |
 | 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
 | 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
 

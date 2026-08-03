@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:43:56.556Z",
+  "lastUpdated": "2026-08-03T17:44:21.818Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6020,6 +6020,193 @@
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
+            }
+          }
+        },
+        "concatenation-of-array": {
+          "questionId": "1929",
+          "title": "Concatenation of Array",
+          "titleSlug": "concatenation-of-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "1 ms",
+              "memory": "45.3 MB",
+              "githubPath": "LeetCode/Array/Concatenation of Array/"
+            }
+          }
+        },
+        "add-two-integers": {
+          "questionId": "2235",
+          "title": "Add Two Integers",
+          "titleSlug": "add-two-integers",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "0 ms",
+              "memory": "40.7 MB",
+              "githubPath": "LeetCode/Math/Add Two Integers/"
+            }
+          }
+        },
+        "monotonic-array": {
+          "questionId": "896",
+          "title": "Monotonic Array",
+          "titleSlug": "monotonic-array",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "2 ms",
+              "memory": "59.8 MB",
+              "githubPath": "LeetCode/Array/Monotonic Array/"
+            }
+          }
+        },
+        "harshad-number": {
+          "questionId": "3099",
+          "title": "Harshad Number",
+          "titleSlug": "harshad-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "0 ms",
+              "memory": "40.8 MB",
+              "githubPath": "LeetCode/Math/Harshad Number/"
+            }
+          }
+        },
+        "contains-duplicate-ii": {
+          "questionId": "219",
+          "title": "Contains Duplicate II",
+          "titleSlug": "contains-duplicate-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "1175 ms",
+              "memory": "60 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate II/"
+            }
+          }
+        },
+        "contains-duplicate": {
+          "questionId": "217",
+          "title": "Contains Duplicate",
+          "titleSlug": "contains-duplicate",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061817,
+              "runtime": "21 ms",
+              "memory": "58.6 MB",
+              "githubPath": "LeetCode/Array/Contains Duplicate/"
+            }
+          }
+        },
+        "intersection-of-two-arrays": {
+          "questionId": "349",
+          "title": "Intersection of Two Arrays",
+          "titleSlug": "intersection-of-two-arrays",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Two Pointers",
+            "Binary Search",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061818,
+              "runtime": "3 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/Intersection of Two Arrays/"
+            }
+          }
+        },
+        "3sum-closest": {
+          "questionId": "16",
+          "title": "3Sum Closest",
+          "titleSlug": "3sum-closest",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061818,
+              "runtime": "14 ms",
+              "memory": "43.3 MB",
+              "githubPath": "LeetCode/Array/3Sum Closest/"
+            }
+          }
+        },
+        "water-bottles": {
+          "questionId": "1518",
+          "title": "Water Bottles",
+          "titleSlug": "water-bottles",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061818,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Water Bottles/"
+            }
+          }
+        },
+        "find-the-duplicate-number": {
+          "questionId": "287",
+          "title": "Find the Duplicate Number",
+          "titleSlug": "find-the-duplicate-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Binary Search",
+            "Bit Manipulation",
+            "Pigeonhole Principle",
+            "Floyd's Cycle Finding Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785779061818,
+              "runtime": "35 ms",
+              "memory": "58.8 MB",
+              "githubPath": "LeetCode/Array/Find the Duplicate Number/"
             }
           }
         }
