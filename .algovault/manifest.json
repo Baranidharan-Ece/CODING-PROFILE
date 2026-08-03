@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:39:16.063Z",
+  "lastUpdated": "2026-08-03T17:39:27.840Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1551,7 +1551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Valid Word/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "4 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Minimum Distance Between Three Equal Elements I/"
@@ -1586,7 +1586,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Trionic Array I/"
@@ -1603,7 +1603,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/String/Check if Strings Can be Made Equal With Operations I/"
@@ -1623,7 +1623,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Matrix Similarity After Cyclic Shifts/"
@@ -1641,7 +1641,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "2 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Special Positions in a Binary Matrix/"
@@ -1659,7 +1659,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874609614,
+              "syncedAt": 1785778767840,
               "runtime": "4 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/String/Robot Return to Origin/"
@@ -1676,7 +1676,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874624066,
+              "syncedAt": 1785778767840,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Check if Binary String Has at Most One Segment of Ones/"
@@ -1695,7 +1695,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874624066,
+              "syncedAt": 1785778767840,
               "runtime": "173 ms",
               "memory": "238.3 MB",
               "githubPath": "LeetCode/Array/Maximum Amount of Money Robot Can Earn/"
