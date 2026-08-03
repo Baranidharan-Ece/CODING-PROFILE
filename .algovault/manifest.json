@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:38:41.351Z",
+  "lastUpdated": "2026-08-03T17:38:51.591Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1202,7 +1202,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874557883,
+              "syncedAt": 1785778731590,
               "runtime": "4 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Rotated Digits/"
@@ -1221,7 +1221,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874557883,
+              "syncedAt": 1785778731590,
               "runtime": "8 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -1240,7 +1240,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874557883,
+              "syncedAt": 1785778731590,
               "runtime": "4 ms",
               "memory": "90.5 MB",
               "githubPath": "LeetCode/Array/Rotate Function/"
@@ -1258,7 +1258,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874557883,
+              "syncedAt": 1785778731590,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Number of Senior Citizens/"
@@ -1277,7 +1277,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874557883,
+              "syncedAt": 1785778731591,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Merge Two 2D Arrays by Summing Values/"
@@ -1295,7 +1295,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874567813,
+              "syncedAt": 1785778731591,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Find Words Containing Character/"
