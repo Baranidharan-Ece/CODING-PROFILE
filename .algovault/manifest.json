@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:38:02.726Z",
+  "lastUpdated": "2026-08-03T17:38:14.113Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -375,7 +375,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "2 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Hash Table/Roman to Integer/"
@@ -394,7 +394,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "2 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Two Pointers/Is Subsequence/"
@@ -411,7 +411,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "478 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customer Placing the Largest Number of Orders/"
@@ -428,7 +428,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "369 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Classes With at Least 5 Students/"
@@ -445,7 +445,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "358 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Duplicate Emails/"
@@ -462,7 +462,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "485 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Find Customer Referee/"
@@ -479,7 +479,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "258 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Not Boring Movies/"
@@ -496,7 +496,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "565 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Invalid Tweets/"
@@ -513,7 +513,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "585 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Calculate Special Bonus/"
@@ -530,7 +530,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "671 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -550,7 +550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874487841,
+              "syncedAt": 1785778694112,
               "runtime": "19 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
@@ -573,7 +573,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778694112,
               "runtime": "2 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
@@ -591,7 +591,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874506158,
+              "syncedAt": 1785778694113,
               "runtime": "1 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
