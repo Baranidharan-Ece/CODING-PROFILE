@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:02.105Z",
+  "lastUpdated": "2026-08-03T17:41:17.000Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3306,6 +3306,241 @@
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
+            }
+          }
+        },
+        "power-of-four": {
+          "questionId": "342",
+          "title": "Power of Four",
+          "titleSlug": "power-of-four",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "1 ms",
+              "memory": "42.4 MB",
+              "githubPath": "LeetCode/Math/Power of Four/"
+            }
+          }
+        },
+        "longest-palindromic-substring": {
+          "questionId": "5",
+          "title": "Longest Palindromic Substring",
+          "titleSlug": "longest-palindromic-substring",
+          "difficulty": "Medium",
+          "tags": [
+            "Two Pointers",
+            "String",
+            "Dynamic Programming",
+            "Manacher"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "14 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
+            }
+          }
+        },
+        "increment-submatrices-by-one": {
+          "questionId": "2536",
+          "title": "Increment Submatrices by One",
+          "titleSlug": "increment-submatrices-by-one",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "12 ms",
+              "memory": "86.9 MB",
+              "githubPath": "LeetCode/Array/Increment Submatrices by One/"
+            }
+          }
+        },
+        "group-anagrams": {
+          "questionId": "49",
+          "title": "Group Anagrams",
+          "titleSlug": "group-anagrams",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "7 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Group Anagrams/"
+            }
+          }
+        },
+        "maximum-number-of-operations-to-move-ones-to-the-end": {
+          "questionId": "3228",
+          "title": "Maximum Number of Operations to Move Ones to the End",
+          "titleSlug": "maximum-number-of-operations-to-move-ones-to-the-end",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Greedy",
+            "Counting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "7 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
+            }
+          }
+        },
+        "excel-sheet-column-number": {
+          "questionId": "171",
+          "title": "Excel Sheet Column Number",
+          "titleSlug": "excel-sheet-column-number",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "1 ms",
+              "memory": "43.6 MB",
+              "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
+            }
+          }
+        },
+        "minimum-number-of-operations-to-make-all-array-elements-equal-to-1": {
+          "questionId": "2654",
+          "title": "Minimum Number of Operations to Make All Array Elements Equal to 1",
+          "titleSlug": "minimum-number-of-operations-to-make-all-array-elements-equal-to-1",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Number Theory",
+            "Euclidean Algorithm",
+            "Greatest Common Divisor"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778876999,
+              "runtime": "1 ms",
+              "memory": "44.1 MB",
+              "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
+            }
+          }
+        },
+        "longest-palindrome": {
+          "questionId": "409",
+          "title": "Longest Palindrome",
+          "titleSlug": "longest-palindrome",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778877000,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/Longest Palindrome/"
+            }
+          }
+        },
+        "ones-and-zeroes": {
+          "questionId": "474",
+          "title": "Ones and Zeroes",
+          "titleSlug": "ones-and-zeroes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Knapsack Problem",
+            "0-1 Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778877000,
+              "runtime": "19 ms",
+              "memory": "43.8 MB",
+              "githubPath": "LeetCode/Array/Ones and Zeroes/"
+            }
+          }
+        },
+        "minimum-operations-to-convert-all-elements-to-zero": {
+          "questionId": "3542",
+          "title": "Minimum Operations to Convert All Elements to Zero",
+          "titleSlug": "minimum-operations-to-convert-all-elements-to-zero",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Stack",
+            "Greedy",
+            "Monotonic Stack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778877000,
+              "runtime": "12 ms",
+              "memory": "137.6 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Convert All Elements to Zero/"
+            }
+          }
+        },
+        "prime-number-of-set-bits-in-binary-representation": {
+          "questionId": "762",
+          "title": "Prime Number of Set Bits in Binary Representation",
+          "titleSlug": "prime-number-of-set-bits-in-binary-representation",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Bit Manipulation",
+            "Primality Test"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778877000,
+              "runtime": "4 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
+            }
+          }
+        },
+        "integer-to-roman": {
+          "questionId": "12",
+          "title": "Integer to Roman",
+          "titleSlug": "integer-to-roman",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778877000,
+              "runtime": "3 ms",
+              "memory": "45.6 MB",
+              "githubPath": "LeetCode/Hash Table/Integer to Roman/"
             }
           }
         }
