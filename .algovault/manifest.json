@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:41:28.058Z",
+  "lastUpdated": "2026-08-03T17:41:44.852Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3787,6 +3787,265 @@
               "runtime": "51 ms",
               "memory": "95.7 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Arrows to Burst Balloons/"
+            }
+          }
+        },
+        "maximize-the-minimum-powered-city": {
+          "questionId": "2528",
+          "title": "Maximize the Minimum Powered City",
+          "titleSlug": "maximize-the-minimum-powered-city",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904850,
+              "runtime": "28 ms",
+              "memory": "81.6 MB",
+              "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
+            }
+          }
+        },
+        "pascals-triangle-ii": {
+          "questionId": "119",
+          "title": "Pascal's Triangle II",
+          "titleSlug": "pascals-triangle-ii",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Array/Pascal's Triangle II/"
+            }
+          }
+        },
+        "h-index": {
+          "questionId": "274",
+          "title": "H-Index",
+          "titleSlug": "h-index",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "6 ms",
+              "memory": "43.2 MB",
+              "githubPath": "LeetCode/Array/H-Index/"
+            }
+          }
+        },
+        "triangle": {
+          "questionId": "120",
+          "title": "Triangle",
+          "titleSlug": "triangle",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "10 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Triangle/"
+            }
+          }
+        },
+        "power-grid-maintenance": {
+          "questionId": "3607",
+          "title": "Power Grid Maintenance",
+          "titleSlug": "power-grid-maintenance",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Depth-First Search",
+            "Breadth-First Search",
+            "Union-Find",
+            "Graph Theory",
+            "Heap (Priority Queue)",
+            "Ordered Set"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "123 ms",
+              "memory": "248.3 MB",
+              "githubPath": "LeetCode/Array/Power Grid Maintenance/"
+            }
+          }
+        },
+        "super-pow": {
+          "questionId": "372",
+          "title": "Super Pow",
+          "titleSlug": "super-pow",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Divide and Conquer",
+            "Euler's Totient Function",
+            "Euler's Theorem"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "3 ms",
+              "memory": "46.3 MB",
+              "githubPath": "LeetCode/Math/Super Pow/"
+            }
+          }
+        },
+        "gray-code": {
+          "questionId": "89",
+          "title": "Gray Code",
+          "titleSlug": "gray-code",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Backtracking",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "6 ms",
+              "memory": "53.8 MB",
+              "githubPath": "LeetCode/Math/Gray Code/"
+            }
+          }
+        },
+        "rotate-image": {
+          "questionId": "48",
+          "title": "Rotate Image",
+          "titleSlug": "rotate-image",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Rotate Image/"
+            }
+          }
+        },
+        "sort-list": {
+          "questionId": "148",
+          "title": "Sort List",
+          "titleSlug": "sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Divide and Conquer",
+            "Sorting",
+            "Merge Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "9 ms",
+              "memory": "59.1 MB",
+              "githubPath": "LeetCode/Linked List/Sort List/"
+            }
+          }
+        },
+        "reorder-list": {
+          "questionId": "143",
+          "title": "Reorder List",
+          "titleSlug": "reorder-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Two Pointers",
+            "Stack",
+            "Recursion"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "2 ms",
+              "memory": "49.4 MB",
+              "githubPath": "LeetCode/Linked List/Reorder List/"
+            }
+          }
+        },
+        "letter-combinations-of-a-phone-number": {
+          "questionId": "17",
+          "title": "Letter Combinations of a Phone Number",
+          "titleSlug": "letter-combinations-of-a-phone-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Backtracking"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904851,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
+            }
+          }
+        },
+        "find-x-sum-of-all-k-long-subarrays-i": {
+          "questionId": "3318",
+          "title": "Find X-Sum of All K-Long Subarrays I",
+          "titleSlug": "find-x-sum-of-all-k-long-subarrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904852,
+              "runtime": "11 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
+            }
+          }
+        },
+        "minimum-time-to-make-rope-colorful": {
+          "questionId": "1578",
+          "title": "Minimum Time to Make Rope Colorful",
+          "titleSlug": "minimum-time-to-make-rope-colorful",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Dynamic Programming",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778904852,
+              "runtime": "8 ms",
+              "memory": "92.9 MB",
+              "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
             }
           }
         }
