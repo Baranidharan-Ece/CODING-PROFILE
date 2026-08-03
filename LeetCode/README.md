@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778834205" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778844384" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -45,6 +45,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 500 | [Keyboard Row](./Array/Keyboard%20Row/) | Easy |
 | 503 | [Next Greater Element II](./Array/Next%20Greater%20Element%20II/) | Medium |
 | 506 | [Relative Ranks](./Array/Relative%20Ranks/) | Easy |
+| 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
@@ -65,6 +66,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
 | 1582 | [Special Positions in a Binary Matrix](./Array/Special%20Positions%20in%20a%20Binary%20Matrix/) | Easy |
+| 1590 | [Make Sum Divisible by P](./Array/Make%20Sum%20Divisible%20by%20P/) | Medium |
 | 1636 | [Sort Array by Increasing Frequency](./Array/Sort%20Array%20by%20Increasing%20Frequency/) | Easy |
 | 1695 | [Maximum Erasure Value](./Array/Maximum%20Erasure%20Value/) | Medium |
 | 1848 | [Minimum Distance to the Target Element](./Array/Minimum%20Distance%20to%20the%20Target%20Element/) | Easy |
@@ -74,6 +76,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2054 | [Two Best Non-Overlapping Events](./Array/Two%20Best%20Non-Overlapping%20Events/) | Medium |
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2110 | [Number of Smooth Descent Periods of a Stock](./Array/Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/) | Medium |
+| 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2402 | [Meeting Rooms III](./Array/Meeting%20Rooms%20III/) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
@@ -86,14 +89,19 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
+| 3432 | [Count Partitions with Even Sum Difference](./Array/Count%20Partitions%20with%20Even%20Sum%20Difference/) | Easy |
 | 3433 | [Count Mentions Per User](./Array/Count%20Mentions%20Per%20User/) | Medium |
 | 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
+| 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
 | 3531 | [Count Covered Buildings](./Array/Count%20Covered%20Buildings/) | Medium |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](./Array/Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts/) | Hard |
 | 3573 | [Best Time to Buy and Sell Stock V](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V/) | Medium |
 | 3577 | [Count the Number of Computer Unlocking Permutations](./Array/Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations/) | Medium |
+| 3578 | [Count Partitions With Max-Min Difference at Most K](./Array/Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K/) | Medium |
 | 3583 | [Count Special Triplets](./Array/Count%20Special%20Triplets/) | Medium |
 | 3606 | [Coupon Code Validator](./Array/Coupon%20Code%20Validator/) | Easy |
+| 3623 | [Count Number of Trapezoids I](./Array/Count%20Number%20of%20Trapezoids%20I/) | Medium |
+| 3625 | [Count Number of Trapezoids II](./Array/Count%20Number%20of%20Trapezoids%20II/) | Hard |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/) | Medium |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
@@ -164,6 +172,17 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 |---|---------|------------|
 | 190 | [Reverse Bits](./Divide%20and%20Conquer/Reverse%20Bits/) | Easy |
 | 191 | [Number of 1 Bits](./Divide%20and%20Conquer/Number%20of%201%20Bits/) | Easy |
+
+</details>
+
+
+### Dynamic Programming
+<details>
+<summary>Click to expand Dynamic Programming problems</summary>
+
+| # | Problem | Difficulty |
+|---|---------|------------|
+| 338 | [Counting Bits](./Dynamic%20Programming/Counting%20Bits/) | Easy |
 
 </details>
 
@@ -246,6 +265,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./String/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) | Easy |
+| 2211 | [Count Collisions on a Road](./String/Count%20Collisions%20on%20a%20Road/) | Medium |
 | 2483 | [Minimum Penalty for a Shop](./String/Minimum%20Penalty%20for%20a%20Shop/) | Medium |
 | 2833 | [Furthest Point From Origin](./String/Furthest%20Point%20From%20Origin/) | Easy |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./String/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) | Easy |
@@ -262,6 +282,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | # | Problem | Difficulty |
 |---|---------|------------|
 | 100 | [Same Tree](./Tree/Same%20Tree/) | Easy |
+| 2872 | [Maximum Number of K-Divisible Components](./Tree/Maximum%20Number%20of%20K-Divisible%20Components/) | Hard |
 
 </details>
 

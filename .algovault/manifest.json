@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:34.202Z",
+  "lastUpdated": "2026-08-03T17:40:44.379Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2815,6 +2815,219 @@
               "runtime": "812 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Count Odd Numbers in an Interval Range/"
+            }
+          }
+        },
+        "count-partitions-with-max-min-difference-at-most-k": {
+          "questionId": "3578",
+          "title": "Count Partitions With Max-Min Difference at Most K",
+          "titleSlug": "count-partitions-with-max-min-difference-at-most-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Queue",
+            "Sliding Window",
+            "Prefix Sum",
+            "Monotonic Queue"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844378,
+              "runtime": "44 ms",
+              "memory": "85.5 MB",
+              "githubPath": "LeetCode/Array/Count Partitions With Max-Min Difference at Most K/"
+            }
+          }
+        },
+        "count-partitions-with-even-sum-difference": {
+          "questionId": "3432",
+          "title": "Count Partitions with Even Sum Difference",
+          "titleSlug": "count-partitions-with-even-sum-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844378,
+              "runtime": "0 ms",
+              "memory": "43.5 MB",
+              "githubPath": "LeetCode/Array/Count Partitions with Even Sum Difference/"
+            }
+          }
+        },
+        "count-collisions-on-a-road": {
+          "questionId": "2211",
+          "title": "Count Collisions on a Road",
+          "titleSlug": "count-collisions-on-a-road",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Stack",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844378,
+              "runtime": "8 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/String/Count Collisions on a Road/"
+            }
+          }
+        },
+        "counting-bits": {
+          "questionId": "338",
+          "title": "Counting Bits",
+          "titleSlug": "counting-bits",
+          "difficulty": "Easy",
+          "tags": [
+            "Dynamic Programming",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "2 ms",
+              "memory": "48.5 MB",
+              "githubPath": "LeetCode/Dynamic Programming/Counting Bits/"
+            }
+          }
+        },
+        "count-number-of-trapezoids-ii": {
+          "questionId": "3625",
+          "title": "Count Number of Trapezoids II",
+          "titleSlug": "count-number-of-trapezoids-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "372 ms",
+              "memory": "274.5 MB",
+              "githubPath": "LeetCode/Array/Count Number of Trapezoids II/"
+            }
+          }
+        },
+        "array-partition": {
+          "questionId": "561",
+          "title": "Array Partition",
+          "titleSlug": "array-partition",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting",
+            "Counting Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "17 ms",
+              "memory": "49.7 MB",
+              "githubPath": "LeetCode/Array/Array Partition/"
+            }
+          }
+        },
+        "count-number-of-trapezoids-i": {
+          "questionId": "3623",
+          "title": "Count Number of Trapezoids I",
+          "titleSlug": "count-number-of-trapezoids-i",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "37 ms",
+              "memory": "206.3 MB",
+              "githubPath": "LeetCode/Array/Count Number of Trapezoids I/"
+            }
+          }
+        },
+        "maximum-running-time-of-n-computers": {
+          "questionId": "2141",
+          "title": "Maximum Running Time of N Computers",
+          "titleSlug": "maximum-running-time-of-n-computers",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Binary Search",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "12 ms",
+              "memory": "74 MB",
+              "githubPath": "LeetCode/Array/Maximum Running Time of N Computers/"
+            }
+          }
+        },
+        "make-sum-divisible-by-p": {
+          "questionId": "1590",
+          "title": "Make Sum Divisible by P",
+          "titleSlug": "make-sum-divisible-by-p",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "27 ms",
+              "memory": "99.2 MB",
+              "githubPath": "LeetCode/Array/Make Sum Divisible by P/"
+            }
+          }
+        },
+        "minimum-operations-to-make-array-sum-divisible-by-k": {
+          "questionId": "3512",
+          "title": "Minimum Operations to Make Array Sum Divisible by K",
+          "titleSlug": "minimum-operations-to-make-array-sum-divisible-by-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "1 ms",
+              "memory": "46.7 MB",
+              "githubPath": "LeetCode/Array/Minimum Operations to Make Array Sum Divisible by K/"
+            }
+          }
+        },
+        "maximum-number-of-k-divisible-components": {
+          "questionId": "2872",
+          "title": "Maximum Number of K-Divisible Components",
+          "titleSlug": "maximum-number-of-k-divisible-components",
+          "difficulty": "Hard",
+          "tags": [
+            "Tree",
+            "Depth-First Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778844379,
+              "runtime": "21 ms",
+              "memory": "88.7 MB",
+              "githubPath": "LeetCode/Tree/Maximum Number of K-Divisible Components/"
             }
           }
         }
