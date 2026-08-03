@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778925336" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778937623" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -55,14 +55,20 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 260 | [Single Number III](./Array/Single%20Number%20III/) | Medium |
 | 274 | [H-Index](./Array/H-Index/) | Medium |
+| 300 | [Longest Increasing Subsequence](./Array/Longest%20Increasing%20Subsequence/) | Medium |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 318 | [Maximum Product of Word Lengths](./Array/Maximum%20Product%20of%20Word%20Lengths/) | Medium |
+| 327 | [Count of Range Sum](./Array/Count%20of%20Range%20Sum/) | Hard |
+| 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 350 | [Intersection of Two Arrays II](./Array/Intersection%20of%20Two%20Arrays%20II/) | Easy |
+| 391 | [Perfect Rectangle](./Array/Perfect%20Rectangle/) | Hard |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
 | 452 | [Minimum Number of Arrows to Burst Balloons](./Array/Minimum%20Number%20of%20Arrows%20to%20Burst%20Balloons/) | Medium |
 | 453 | [Minimum Moves to Equal Array Elements](./Array/Minimum%20Moves%20to%20Equal%20Array%20Elements/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
 | 474 | [Ones and Zeroes](./Array/Ones%20and%20Zeroes/) | Medium |
+| 493 | [Reverse Pairs](./Array/Reverse%20Pairs/) | Hard |
 | 494 | [Target Sum](./Array/Target%20Sum/) | Medium |
 | 495 | [Teemo Attacking](./Array/Teemo%20Attacking/) | Easy |
 | 496 | [Next Greater Element I](./Array/Next%20Greater%20Element%20I/) | Easy |
@@ -85,6 +91,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 717 | [1-bit and 2-bit Characters](./Array/1-bit%20and%202-bit%20Characters/) | Easy |
 | 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
+| 781 | [Rabbits in Forest](./Array/Rabbits%20in%20Forest/) | Medium |
 | 782 | [Transform to Chessboard](./Array/Transform%20to%20Chessboard/) | Hard |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
@@ -252,6 +259,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 141 | [Linked List Cycle](./Hash%20Table/Linked%20List%20Cycle/) | Easy |
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
+| 299 | [Bulls and Cows](./Hash%20Table/Bulls%20and%20Cows/) | Medium |
 | 409 | [Longest Palindrome](./Hash%20Table/Longest%20Palindrome/) | Easy |
 | 756 | [Pyramid Transition Matrix](./Hash%20Table/Pyramid%20Transition%20Matrix/) | Medium |
 | 1015 | [Smallest Integer Divisible by K](./Hash%20Table/Smallest%20Integer%20Divisible%20by%20K/) | Medium |
@@ -288,14 +296,18 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 171 | [Excel Sheet Column Number](./Math/Excel%20Sheet%20Column%20Number/) | Easy |
 | 172 | [Factorial Trailing Zeroes](./Math/Factorial%20Trailing%20Zeroes/) | Medium |
+| 319 | [Bulb Switcher](./Math/Bulb%20Switcher/) | Medium |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
 | 342 | [Power of Four](./Math/Power%20of%20Four/) | Easy |
+| 343 | [Integer Break](./Math/Integer%20Break/) | Medium |
 | 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 372 | [Super Pow](./Math/Super%20Pow/) | Medium |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
 | 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
 | 556 | [Next Greater Element III](./Math/Next%20Greater%20Element%20III/) | Medium |
+| 564 | [Find the Closest Palindrome](./Math/Find%20the%20Closest%20Palindrome/) | Hard |
 | 762 | [Prime Number of Set Bits in Binary Representation](./Math/Prime%20Number%20of%20Set%20Bits%20in%20Binary%20Representation/) | Easy |
+| 780 | [Reaching Points](./Math/Reaching%20Points/) | Hard |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
 | 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
@@ -331,6 +343,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
+| 306 | [Additive Number](./String/Additive%20Number/) | Medium |
+| 402 | [Remove K Digits](./String/Remove%20K%20Digits/) | Medium |
 | 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
