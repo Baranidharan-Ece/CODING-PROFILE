@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:08.732Z",
+  "lastUpdated": "2026-08-03T17:40:18.530Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2280,7 +2280,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818529,
               "runtime": "50 ms",
               "memory": "125.7 MB",
               "githubPath": "LeetCode/Array/Meeting Rooms III/"
@@ -2299,7 +2299,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818529,
               "runtime": "42 ms",
               "memory": "108.8 MB",
               "githubPath": "LeetCode/Array/Maximize Happiness of Selected Children/"
@@ -2318,7 +2318,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818529,
               "runtime": "2 ms",
               "memory": "44.3 MB",
               "githubPath": "LeetCode/Array/Apple Redistribution into Boxes/"
@@ -2339,7 +2339,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818529,
               "runtime": "78 ms",
               "memory": "191.3 MB",
               "githubPath": "LeetCode/Array/Two Best Non-Overlapping Events/"
@@ -2358,7 +2358,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818529,
               "runtime": "7 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Delete Columns to Make Sorted III/"
@@ -2377,7 +2377,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874685266,
+              "syncedAt": 1785778818530,
               "runtime": "12 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Delete Columns to Make Sorted II/"
@@ -2524,6 +2524,25 @@
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "delete-columns-to-make-sorted": {
+          "questionId": "944",
+          "title": "Delete Columns to Make Sorted",
+          "titleSlug": "delete-columns-to-make-sorted",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "String",
+            "Longest Increasing Subsequence"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778818530,
+              "runtime": "8 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Array/Delete Columns to Make Sorted/"
             }
           }
         }
