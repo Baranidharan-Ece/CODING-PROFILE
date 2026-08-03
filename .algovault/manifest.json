@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:39:01.831Z",
+  "lastUpdated": "2026-08-03T17:39:08.340Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1408,7 +1408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874576993,
+              "syncedAt": 1785778748340,
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Number of Equivalent Domino Pairs/"
@@ -1426,7 +1426,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874576993,
+              "syncedAt": 1785778748340,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Two Furthest Houses With Different Colors/"
@@ -1444,7 +1444,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874576993,
+              "syncedAt": 1785778748340,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Convert Binary Number in a Linked List to Integer/"
