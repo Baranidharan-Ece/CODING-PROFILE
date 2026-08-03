@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:42:44.861Z",
+  "lastUpdated": "2026-08-03T17:43:15.585Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5222,6 +5222,328 @@
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Game of Life/"
+            }
+          }
+        },
+        "sort-colors": {
+          "questionId": "75",
+          "title": "Sort Colors",
+          "titleSlug": "sort-colors",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Two Pointers",
+            "Sorting",
+            "Quicksort",
+            "Bubble Sort"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Array/Sort Colors/"
+            }
+          }
+        },
+        "majority-element-ii": {
+          "questionId": "229",
+          "title": "Majority Element II",
+          "titleSlug": "majority-element-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Counting",
+            "Boyer–Moore Majority Vote Algorithm"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "2 ms",
+              "memory": "50.3 MB",
+              "githubPath": "LeetCode/Array/Majority Element II/"
+            }
+          }
+        },
+        "find-the-difference": {
+          "questionId": "389",
+          "title": "Find the Difference",
+          "titleSlug": "find-the-difference",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "2 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Hash Table/Find the Difference/"
+            }
+          }
+        },
+        "insertion-sort-list": {
+          "questionId": "147",
+          "title": "Insertion Sort List",
+          "titleSlug": "insertion-sort-list",
+          "difficulty": "Medium",
+          "tags": [
+            "Linked List",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "18 ms",
+              "memory": "45.2 MB",
+              "githubPath": "LeetCode/Linked List/Insertion Sort List/"
+            }
+          }
+        },
+        "largest-number": {
+          "questionId": "179",
+          "title": "Largest Number",
+          "titleSlug": "largest-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "String",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "5 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Array/Largest Number/"
+            }
+          }
+        },
+        "word-break-ii": {
+          "questionId": "140",
+          "title": "Word Break II",
+          "titleSlug": "word-break-ii",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Trie",
+            "Memoization"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "6 ms",
+              "memory": "41.9 MB",
+              "githubPath": "LeetCode/Array/Word Break II/"
+            }
+          }
+        },
+        "word-break": {
+          "questionId": "139",
+          "title": "Word Break",
+          "titleSlug": "word-break",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Dynamic Programming",
+            "Trie",
+            "Memoization",
+            "Brute-Force Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995581,
+              "runtime": "8 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Word Break/"
+            }
+          }
+        },
+        "first-missing-positive": {
+          "questionId": "41",
+          "title": "First Missing Positive",
+          "titleSlug": "first-missing-positive",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995582,
+              "runtime": "1 ms",
+              "memory": "57.5 MB",
+              "githubPath": "LeetCode/Array/First Missing Positive/"
+            }
+          }
+        },
+        "check-if-digits-are-equal-in-string-after-operations-i": {
+          "questionId": "3461",
+          "title": "Check If Digits Are Equal in String After Operations I",
+          "titleSlug": "check-if-digits-are-equal-in-string-after-operations-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "String",
+            "Simulation",
+            "Combinatorics",
+            "Number Theory"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995582,
+              "runtime": "8 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Math/Check If Digits Are Equal in String After Operations I/"
+            }
+          }
+        },
+        "count-primes": {
+          "questionId": "204",
+          "title": "Count Primes",
+          "titleSlug": "count-primes",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math",
+            "Enumeration",
+            "Number Theory",
+            "Primality Test",
+            "Sieve Theory",
+            "Prime Number Sieve"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995582,
+              "runtime": "97 ms",
+              "memory": "49.6 MB",
+              "githubPath": "LeetCode/Array/Count Primes/"
+            }
+          }
+        },
+        "rectangle-area": {
+          "questionId": "223",
+          "title": "Rectangle Area",
+          "titleSlug": "rectangle-area",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995583,
+              "runtime": "1 ms",
+              "memory": "43 MB",
+              "githubPath": "LeetCode/Math/Rectangle Area/"
+            }
+          }
+        },
+        "ugly-number-ii": {
+          "questionId": "264",
+          "title": "Ugly Number II",
+          "titleSlug": "ugly-number-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Dynamic Programming",
+            "Heap (Priority Queue)"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995583,
+              "runtime": "2 ms",
+              "memory": "41.5 MB",
+              "githubPath": "LeetCode/Hash Table/Ugly Number II/"
+            }
+          }
+        },
+        "perfect-squares": {
+          "questionId": "279",
+          "title": "Perfect Squares",
+          "titleSlug": "perfect-squares",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Breadth-First Search",
+            "Knapsack Problem",
+            "Complete Knapsack"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995583,
+              "runtime": "32 ms",
+              "memory": "42.8 MB",
+              "githubPath": "LeetCode/Math/Perfect Squares/"
+            }
+          }
+        },
+        "reach-a-number": {
+          "questionId": "754",
+          "title": "Reach a Number",
+          "titleSlug": "reach-a-number",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995583,
+              "runtime": "2 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Reach a Number/"
+            }
+          }
+        },
+        "maximum-swap": {
+          "questionId": "670",
+          "title": "Maximum Swap",
+          "titleSlug": "maximum-swap",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Greedy"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995584,
+              "runtime": "0 ms",
+              "memory": "41.2 MB",
+              "githubPath": "LeetCode/Math/Maximum Swap/"
+            }
+          }
+        },
+        "unique-paths": {
+          "questionId": "62",
+          "title": "Unique Paths",
+          "titleSlug": "unique-paths",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "Dynamic Programming",
+            "Combinatorics"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778995584,
+              "runtime": "0 ms",
+              "memory": "40.5 MB",
+              "githubPath": "LeetCode/Math/Unique Paths/"
             }
           }
         }
