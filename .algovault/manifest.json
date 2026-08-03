@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:26:49.123Z",
+  "lastUpdated": "2026-08-03T17:28:35.665Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2518,6 +2518,25 @@
               "runtime": "0 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/Stone Game/"
+            }
+          }
+        },
+        "self-crossing": {
+          "questionId": "335",
+          "title": "Self Crossing",
+          "titleSlug": "self-crossing",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Math",
+            "Geometry"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778115664,
+              "runtime": "6 ms",
+              "memory": "55 MB",
+              "githubPath": "LeetCode/Array/Self Crossing/"
             }
           }
         }

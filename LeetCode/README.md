@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778009171" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778115717" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -36,6 +36,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 228 | [Summary Ranges](./Array/Summary%20Ranges/) | Easy |
 | 239 | [Sliding Window Maximum](./Array/Sliding%20Window%20Maximum/) | Hard |
 | 303 | [Range Sum Query - Immutable](./Array/Range%20Sum%20Query%20-%20Immutable/) | Easy |
+| 335 | [Self Crossing](./Array/Self%20Crossing/) | Hard |
 | 347 | [Top K Frequent Elements](./Array/Top%20K%20Frequent%20Elements/) | Medium |
 | 396 | [Rotate Function](./Array/Rotate%20Function/) | Medium |
 | 455 | [Assign Cookies](./Array/Assign%20Cookies/) | Easy |
