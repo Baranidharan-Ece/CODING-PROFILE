@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778844384" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1785778862108" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -49,6 +49,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |
+| 717 | [1-bit and 2-bit Characters](./Array/1-bit%20and%202-bit%20Characters/) | Easy |
+| 757 | [Set Intersection Size At Least Two](./Array/Set%20Intersection%20Size%20At%20Least%20Two/) | Hard |
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
@@ -59,12 +61,15 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 961 | [N-Repeated Element in Size 2N Array](./Array/N-Repeated%20Element%20in%20Size%202N%20Array/) | Easy |
 | 976 | [Largest Perimeter Triangle](./Array/Largest%20Perimeter%20Triangle/) | Easy |
 | 996 | [Number of Squareful Arrays](./Array/Number%20of%20Squareful%20Arrays/) | Hard |
+| 1018 | [Binary Prefix Divisible By 5](./Array/Binary%20Prefix%20Divisible%20By%205/) | Easy |
 | 1128 | [Number of Equivalent Domino Pairs](./Array/Number%20of%20Equivalent%20Domino%20Pairs/) | Easy |
 | 1248 | [Count Number of Nice Subarrays](./Array/Count%20Number%20of%20Nice%20Subarrays/) | Medium |
+| 1262 | [Greatest Sum Divisible by Three](./Array/Greatest%20Sum%20Divisible%20by%20Three/) | Medium |
 | 1331 | [Rank Transform of an Array](./Array/Rank%20Transform%20of%20an%20Array/) | Easy |
 | 1346 | [Check If N and Its Double Exist](./Array/Check%20If%20N%20and%20Its%20Double%20Exist/) | Easy |
 | 1423 | [Maximum Points You Can Obtain from Cards](./Array/Maximum%20Points%20You%20Can%20Obtain%20from%20Cards/) | Medium |
 | 1434 | [Number of Ways to Wear Different Hats to Each Other](./Array/Number%20of%20Ways%20to%20Wear%20Different%20Hats%20to%20Each%20Other/) | Hard |
+| 1437 | [Check If All 1's Are at Least Length K Places Away](./Array/Check%20If%20All%201's%20Are%20at%20Least%20Length%20K%20Places%20Away/) | Easy |
 | 1582 | [Special Positions in a Binary Matrix](./Array/Special%20Positions%20in%20a%20Binary%20Matrix/) | Easy |
 | 1590 | [Make Sum Divisible by P](./Array/Make%20Sum%20Divisible%20by%20P/) | Medium |
 | 1636 | [Sort Array by Increasing Frequency](./Array/Sort%20Array%20by%20Increasing%20Frequency/) | Easy |
@@ -77,8 +82,10 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2078 | [Two Furthest Houses With Different Colors](./Array/Two%20Furthest%20Houses%20With%20Different%20Colors/) | Easy |
 | 2110 | [Number of Smooth Descent Periods of a Stock](./Array/Number%20of%20Smooth%20Descent%20Periods%20of%20a%20Stock/) | Medium |
 | 2141 | [Maximum Running Time of N Computers](./Array/Maximum%20Running%20Time%20of%20N%20Computers/) | Hard |
+| 2154 | [Keep Multiplying Found Values by Two](./Array/Keep%20Multiplying%20Found%20Values%20by%20Two/) | Easy |
 | 2161 | [Partition Array According to Given Pivot](./Array/Partition%20Array%20According%20to%20Given%20Pivot/) | Medium |
 | 2402 | [Meeting Rooms III](./Array/Meeting%20Rooms%20III/) | Hard |
+| 2435 | [Paths in Matrix Whose Sum Is Divisible by K](./Array/Paths%20in%20Matrix%20Whose%20Sum%20Is%20Divisible%20by%20K/) | Hard |
 | 2515 | [Shortest Distance to Target String in a Circular Array](./Array/Shortest%20Distance%20to%20Target%20String%20in%20a%20Circular%20Array/) | Easy |
 | 2570 | [Merge Two 2D Arrays by Summing Values](./Array/Merge%20Two%202D%20Arrays%20by%20Summing%20Values/) | Easy |
 | 2678 | [Number of Senior Citizens](./Array/Number%20of%20Senior%20Citizens/) | Easy |
@@ -87,7 +94,9 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
 | 3074 | [Apple Redistribution into Boxes](./Array/Apple%20Redistribution%20into%20Boxes/) | Easy |
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
+| 3190 | [Find Minimum Operations to Make All Elements Divisible by Three](./Array/Find%20Minimum%20Operations%20to%20Make%20All%20Elements%20Divisible%20by%20Three/) | Easy |
 | 3314 | [Construct the Minimum Bitwise Array I](./Array/Construct%20the%20Minimum%20Bitwise%20Array%20I/) | Easy |
+| 3381 | [Maximum Subarray Sum With Length Divisible by K](./Array/Maximum%20Subarray%20Sum%20With%20Length%20Divisible%20by%20K/) | Medium |
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
 | 3432 | [Count Partitions with Even Sum Difference](./Array/Count%20Partitions%20with%20Even%20Sum%20Difference/) | Easy |
 | 3433 | [Count Mentions Per User](./Array/Count%20Mentions%20Per%20User/) | Medium |
@@ -200,6 +209,8 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 160 | [Intersection of Two Linked Lists](./Hash%20Table/Intersection%20of%20Two%20Linked%20Lists/) | Easy |
 | 166 | [Fraction to Recurring Decimal](./Hash%20Table/Fraction%20to%20Recurring%20Decimal/) | Medium |
 | 756 | [Pyramid Transition Matrix](./Hash%20Table/Pyramid%20Transition%20Matrix/) | Medium |
+| 1015 | [Smallest Integer Divisible by K](./Hash%20Table/Smallest%20Integer%20Divisible%20by%20K/) | Medium |
+| 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](./Hash%20Table/Maximum%20Number%20of%20Words%20You%20Can%20Type/) | Easy |
 
 </details>
@@ -228,9 +239,12 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 96 | [Unique Binary Search Trees](./Math/Unique%20Binary%20Search%20Trees/) | Medium |
 | 168 | [Excel Sheet Column Title](./Math/Excel%20Sheet%20Column%20Title/) | Easy |
 | 326 | [Power of Three](./Math/Power%20of%20Three/) | Easy |
+| 367 | [Valid Perfect Square](./Math/Valid%20Perfect%20Square/) | Easy |
 | 405 | [Convert a Number to Hexadecimal](./Math/Convert%20a%20Number%20to%20Hexadecimal/) | Easy |
+| 441 | [Arranging Coins](./Math/Arranging%20Coins/) | Easy |
 | 788 | [Rotated Digits](./Math/Rotated%20Digits/) | Medium |
 | 836 | [Rectangle Overlap](./Math/Rectangle%20Overlap/) | Easy |
+| 1513 | [Number of Substrings With Only 1s](./Math/Number%20of%20Substrings%20With%20Only%201s/) | Medium |
 | 1523 | [Count Odd Numbers in an Interval Range](./Math/Count%20Odd%20Numbers%20in%20an%20Interval%20Range/) | Easy |
 | 1925 | [Count Square Sum Triples](./Math/Count%20Square%20Sum%20Triples/) | Easy |
 | 2147 | [Number of Ways to Divide a Long Corridor](./Math/Number%20of%20Ways%20to%20Divide%20a%20Long%20Corridor/) | Hard |
@@ -270,6 +284,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2833 | [Furthest Point From Origin](./String/Furthest%20Point%20From%20Origin/) | Easy |
 | 2839 | [Check if Strings Can be Made Equal With Operations I](./String/Check%20if%20Strings%20Can%20be%20Made%20Equal%20With%20Operations%20I/) | Easy |
 | 3136 | [Valid Word](./String/Valid%20Word/) | Easy |
+| 3234 | [Count the Number of Substrings With Dominant Ones](./String/Count%20the%20Number%20of%20Substrings%20With%20Dominant%20Ones/) | Medium |
 | 3474 | [Lexicographically Smallest Generated String](./String/Lexicographically%20Smallest%20Generated%20String/) | Hard |
 
 </details>

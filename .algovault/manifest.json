@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:40:44.379Z",
+  "lastUpdated": "2026-08-03T17:41:02.105Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3028,6 +3028,284 @@
               "runtime": "21 ms",
               "memory": "88.7 MB",
               "githubPath": "LeetCode/Tree/Maximum Number of K-Divisible Components/"
+            }
+          }
+        },
+        "maximum-subarray-sum-with-length-divisible-by-k": {
+          "questionId": "3381",
+          "title": "Maximum Subarray Sum With Length Divisible by K",
+          "titleSlug": "maximum-subarray-sum-with-length-divisible-by-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862104,
+              "runtime": "6 ms",
+              "memory": "149.1 MB",
+              "githubPath": "LeetCode/Array/Maximum Subarray Sum With Length Divisible by K/"
+            }
+          }
+        },
+        "paths-in-matrix-whose-sum-is-divisible-by-k": {
+          "questionId": "2435",
+          "title": "Paths in Matrix Whose Sum Is Divisible by K",
+          "titleSlug": "paths-in-matrix-whose-sum-is-divisible-by-k",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862104,
+              "runtime": "51 ms",
+              "memory": "83.8 MB",
+              "githubPath": "LeetCode/Array/Paths in Matrix Whose Sum Is Divisible by K/"
+            }
+          }
+        },
+        "smallest-integer-divisible-by-k": {
+          "questionId": "1015",
+          "title": "Smallest Integer Divisible by K",
+          "titleSlug": "smallest-integer-divisible-by-k",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "Math",
+            "Pigeonhole Principle"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "2 ms",
+              "memory": "42 MB",
+              "githubPath": "LeetCode/Hash Table/Smallest Integer Divisible by K/"
+            }
+          }
+        },
+        "binary-prefix-divisible-by-5": {
+          "questionId": "1018",
+          "title": "Binary Prefix Divisible By 5",
+          "titleSlug": "binary-prefix-divisible-by-5",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "3 ms",
+              "memory": "47.6 MB",
+              "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
+            }
+          }
+        },
+        "greatest-sum-divisible-by-three": {
+          "questionId": "1262",
+          "title": "Greatest Sum Divisible by Three",
+          "titleSlug": "greatest-sum-divisible-by-three",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Dynamic Programming",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "4 ms",
+              "memory": "49.5 MB",
+              "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
+            }
+          }
+        },
+        "find-minimum-operations-to-make-all-elements-divisible-by-three": {
+          "questionId": "3190",
+          "title": "Find Minimum Operations to Make All Elements Divisible by Three",
+          "titleSlug": "find-minimum-operations-to-make-all-elements-divisible-by-three",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "0 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
+            }
+          }
+        },
+        "unique-length-3-palindromic-subsequences": {
+          "questionId": "1930",
+          "title": "Unique Length-3 Palindromic Subsequences",
+          "titleSlug": "unique-length-3-palindromic-subsequences",
+          "difficulty": "Medium",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Bit Manipulation",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "38 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
+            }
+          }
+        },
+        "set-intersection-size-at-least-two": {
+          "questionId": "757",
+          "title": "Set Intersection Size At Least Two",
+          "titleSlug": "set-intersection-size-at-least-two",
+          "difficulty": "Hard",
+          "tags": [
+            "Array",
+            "Greedy",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "9 ms",
+              "memory": "47.7 MB",
+              "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
+            }
+          }
+        },
+        "keep-multiplying-found-values-by-two": {
+          "questionId": "2154",
+          "title": "Keep Multiplying Found Values by Two",
+          "titleSlug": "keep-multiplying-found-values-by-two",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "4 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
+            }
+          }
+        },
+        "1-bit-and-2-bit-characters": {
+          "questionId": "717",
+          "title": "1-bit and 2-bit Characters",
+          "titleSlug": "1-bit-and-2-bit-characters",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "0 ms",
+              "memory": "44.7 MB",
+              "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
+            }
+          }
+        },
+        "check-if-all-1s-are-at-least-length-k-places-away": {
+          "questionId": "1437",
+          "title": "Check If All 1's Are at Least Length K Places Away",
+          "titleSlug": "check-if-all-1s-are-at-least-length-k-places-away",
+          "difficulty": "Easy",
+          "tags": [
+            "Array"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "1 ms",
+              "memory": "65.7 MB",
+              "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
+            }
+          }
+        },
+        "number-of-substrings-with-only-1s": {
+          "questionId": "1513",
+          "title": "Number of Substrings With Only 1s",
+          "titleSlug": "number-of-substrings-with-only-1s",
+          "difficulty": "Medium",
+          "tags": [
+            "Math",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "6 ms",
+              "memory": "46.4 MB",
+              "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
+            }
+          }
+        },
+        "count-the-number-of-substrings-with-dominant-ones": {
+          "questionId": "3234",
+          "title": "Count the Number of Substrings With Dominant Ones",
+          "titleSlug": "count-the-number-of-substrings-with-dominant-ones",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Enumeration"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "1360 ms",
+              "memory": "47 MB",
+              "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
+            }
+          }
+        },
+        "arranging-coins": {
+          "questionId": "441",
+          "title": "Arranging Coins",
+          "titleSlug": "arranging-coins",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "1 ms",
+              "memory": "42.6 MB",
+              "githubPath": "LeetCode/Math/Arranging Coins/"
+            }
+          }
+        },
+        "valid-perfect-square": {
+          "questionId": "367",
+          "title": "Valid Perfect Square",
+          "titleSlug": "valid-perfect-square",
+          "difficulty": "Easy",
+          "tags": [
+            "Math",
+            "Binary Search"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1785778862105,
+              "runtime": "0 ms",
+              "memory": "41.8 MB",
+              "githubPath": "LeetCode/Math/Valid Perfect Square/"
             }
           }
         }
