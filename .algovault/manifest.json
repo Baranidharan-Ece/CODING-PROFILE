@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-03T17:37:41.142Z",
+  "lastUpdated": "2026-08-03T17:37:52.302Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -56,7 +56,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778009123,
+              "syncedAt": 1785778672302,
               "runtime": "36 ms",
               "memory": "146.8 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
@@ -74,7 +74,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778672302,
               "runtime": "0 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -96,7 +96,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778672302,
               "runtime": "52 ms",
               "memory": "108.1 MB",
               "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
@@ -116,7 +116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778672302,
               "runtime": "1 ms",
               "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778672302,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
@@ -150,7 +150,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874459991,
+              "syncedAt": 1785778672302,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -167,7 +167,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874475754,
+              "syncedAt": 1785778672302,
               "runtime": "666 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -184,7 +184,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1784874475755,
+              "syncedAt": 1785778672302,
               "runtime": "472 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
