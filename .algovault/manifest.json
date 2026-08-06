@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:07:07.479Z",
+  "lastUpdated": "2026-08-06T16:07:20.971Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -720,7 +720,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032440970,
               "runtime": "20 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Hash Table/Minimum Window Substring/"
@@ -738,7 +738,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032440970,
               "runtime": "14 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/String/Maximum Number of Vowels in a Substring of Given Length/"
@@ -756,7 +756,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032440970,
               "runtime": "5 ms",
               "memory": "69.9 MB",
               "githubPath": "LeetCode/Array/Maximum Average Subarray I/"
@@ -774,7 +774,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032440970,
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/N-Queens/"
@@ -792,7 +792,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440970,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Divide and Conquer/Reverse Bits/"
@@ -810,7 +810,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440970,
               "runtime": "1 ms",
               "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Single Number/"
@@ -828,7 +828,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440970,
               "runtime": "5 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String/"
@@ -845,7 +845,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440970,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/String/Length of Last Word/"
@@ -864,7 +864,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440970,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Two Pointers/Find the Index of the First Occurrence in a String/"
@@ -882,7 +882,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440971,
               "runtime": "7 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String/"
@@ -901,7 +901,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440971,
               "runtime": "1 ms",
               "memory": "52.8 MB",
               "githubPath": "LeetCode/Hash Table/Intersection of Two Linked Lists/"
@@ -918,7 +918,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440971,
               "runtime": "0 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Linked List/Delete Node in a Linked List/"
@@ -935,7 +935,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440971,
               "runtime": "591 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Number of Unique Subjects Taught by Each Teacher/"
@@ -953,7 +953,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032440971,
               "runtime": "0 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Toeplitz Matrix/"
