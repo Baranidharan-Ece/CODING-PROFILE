@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:08:00.709Z",
+  "lastUpdated": "2026-08-06T16:08:10.190Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1444,7 +1444,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778748340,
+              "syncedAt": 1786032490190,
               "runtime": "0 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Linked List/Convert Binary Number in a Linked List to Integer/"
@@ -1461,7 +1461,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778756063,
+              "syncedAt": 1786032490190,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Mirror Distance of an Integer/"
@@ -1480,7 +1480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778756063,
+              "syncedAt": 1786032490190,
               "runtime": "16 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
@@ -1498,7 +1498,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778756063,
+              "syncedAt": 1786032490190,
               "runtime": "0 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Shortest Distance to Target String in a Circular Array/"
