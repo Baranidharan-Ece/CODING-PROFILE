@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:08:10.190Z",
+  "lastUpdated": "2026-08-06T16:08:22.777Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1515,7 +1515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778756063,
+              "syncedAt": 1786032502777,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Minimum Distance to the Target Element/"
@@ -1534,7 +1534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778756063,
+              "syncedAt": 1786032502777,
               "runtime": "8 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Minimum Difference Between Highest and Lowest of K Scores/"
@@ -1551,7 +1551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/String/Valid Word/"
@@ -1569,7 +1569,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "4 ms",
               "memory": "45.1 MB",
               "githubPath": "LeetCode/Array/Minimum Distance Between Three Equal Elements I/"
@@ -1586,7 +1586,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Trionic Array I/"
@@ -1603,7 +1603,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/String/Check if Strings Can be Made Equal With Operations I/"
@@ -1623,7 +1623,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Matrix Similarity After Cyclic Shifts/"
@@ -1641,7 +1641,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778767840,
+              "syncedAt": 1786032502777,
               "runtime": "2 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Special Positions in a Binary Matrix/"
