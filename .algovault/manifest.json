@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:11:58.738Z",
+  "lastUpdated": "2026-08-06T16:12:14.816Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2394,7 +2394,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734815,
               "runtime": "5 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/String/Zigzag Conversion/"
@@ -5444,7 +5444,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995583,
+              "syncedAt": 1786032734812,
               "runtime": "1 ms",
               "memory": "43 MB",
               "githubPath": "LeetCode/Math/Rectangle Area/"
@@ -5464,7 +5464,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995583,
+              "syncedAt": 1786032734812,
               "runtime": "2 ms",
               "memory": "41.5 MB",
               "githubPath": "LeetCode/Hash Table/Ugly Number II/"
@@ -5485,7 +5485,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995583,
+              "syncedAt": 1786032734812,
               "runtime": "32 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Math/Perfect Squares/"
@@ -5503,7 +5503,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995583,
+              "syncedAt": 1786032734813,
               "runtime": "2 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Reach a Number/"
@@ -5521,7 +5521,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995584,
+              "syncedAt": 1786032734813,
               "runtime": "0 ms",
               "memory": "41.2 MB",
               "githubPath": "LeetCode/Math/Maximum Swap/"
@@ -5540,7 +5540,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778995584,
+              "syncedAt": 1786032734813,
               "runtime": "0 ms",
               "memory": "40.5 MB",
               "githubPath": "LeetCode/Math/Unique Paths/"
@@ -5558,7 +5558,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017958,
+              "syncedAt": 1786032734813,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Pow(x, n)/"
@@ -5578,7 +5578,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017958,
+              "syncedAt": 1786032734813,
               "runtime": "1 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Add Binary/"
@@ -5597,7 +5597,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017958,
+              "syncedAt": 1786032734813,
               "runtime": "2 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Multiply Strings/"
@@ -5614,7 +5614,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734813,
               "runtime": "7 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/String/Count and Say/"
@@ -5632,7 +5632,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734815,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Permutations/"
@@ -5651,7 +5651,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734816,
               "runtime": "2 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Permutations II/"
@@ -5670,7 +5670,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734816,
               "runtime": "1 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/Jump Game II/"
@@ -5688,7 +5688,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785779017959,
+              "syncedAt": 1786032734816,
               "runtime": "2 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Combination Sum/"
