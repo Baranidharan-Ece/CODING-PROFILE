@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:07:20.971Z",
+  "lastUpdated": "2026-08-06T16:07:35.217Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -972,7 +972,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032455216,
               "runtime": "17 ms",
               "memory": "48.5 MB",
               "githubPath": "LeetCode/Array/Next Greater Element II/"
@@ -990,7 +990,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778713478,
+              "syncedAt": 1786032455216,
               "runtime": "35 ms",
               "memory": "99.8 MB",
               "githubPath": "LeetCode/Stack/Min Stack/"
@@ -1028,7 +1028,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "5 ms",
               "memory": "159.8 MB",
               "githubPath": "LeetCode/Array/Partition Array According to Given Pivot/"
@@ -1047,7 +1047,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "2 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
@@ -1068,7 +1068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "3 ms",
               "memory": "55.1 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -1088,7 +1088,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "3 ms",
               "memory": "47.3 MB",
               "githubPath": "LeetCode/Array/Longest Mountain in Array/"
@@ -1108,7 +1108,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Stack/Binary Tree Inorder Traversal/"
@@ -1126,7 +1126,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721350,
+              "syncedAt": 1786032455216,
               "runtime": "0 ms",
               "memory": "48.1 MB",
               "githubPath": "LeetCode/Array/Range Addition II/"
@@ -1146,7 +1146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778721351,
+              "syncedAt": 1786032455217,
               "runtime": "12 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
