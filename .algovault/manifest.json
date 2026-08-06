@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:07:53.796Z",
+  "lastUpdated": "2026-08-06T16:08:00.709Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1389,7 +1389,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778741831,
+              "syncedAt": 1786032480708,
               "runtime": "2 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Check If N and Its Double Exist/"
@@ -1408,7 +1408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778748340,
+              "syncedAt": 1786032480709,
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Number of Equivalent Domino Pairs/"
@@ -1426,7 +1426,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778748340,
+              "syncedAt": 1786032480709,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Two Furthest Houses With Different Colors/"
