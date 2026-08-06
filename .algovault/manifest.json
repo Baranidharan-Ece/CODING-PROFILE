@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:06:58.420Z",
+  "lastUpdated": "2026-08-06T16:07:07.479Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -530,7 +530,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785778694112,
+              "syncedAt": 1786032427478,
               "runtime": "671 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Recyclable and Low Fat Products/"
@@ -550,7 +550,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778694112,
+              "syncedAt": 1786032427478,
               "runtime": "19 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Number of Ways to Wear Different Hats to Each Other/"
@@ -573,7 +573,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778694112,
+              "syncedAt": 1786032427478,
               "runtime": "2 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
@@ -591,7 +591,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778694113,
+              "syncedAt": 1786032427478,
               "runtime": "1 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Number of Strings That Appear as Substrings in Word/"
@@ -609,7 +609,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427478,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Search Insert Position/"
@@ -627,7 +627,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427478,
               "runtime": "4 ms",
               "memory": "44 MB",
               "githubPath": "LeetCode/Array/Remove Element/"
@@ -645,7 +645,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427478,
               "runtime": "0 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/Math/Rectangle Overlap/"
@@ -663,7 +663,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427478,
               "runtime": "1 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Array/Semi-Ordered Permutation/"
@@ -682,7 +682,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427478,
               "runtime": "1 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Hash Table/Fraction to Recurring Decimal/"
@@ -701,7 +701,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778703019,
+              "syncedAt": 1786032427479,
               "runtime": "52 ms",
               "memory": "93 MB",
               "githubPath": "LeetCode/Array/Maximum Erasure Value/"
