@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:06:29.830Z",
+  "lastUpdated": "2026-08-06T16:06:39.003Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -16,7 +16,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778661142,
+              "syncedAt": 1786032399003,
               "runtime": "29 ms",
               "memory": "70 MB",
               "githubPath": "LeetCode/Array/Rank Transform of an Array/"
@@ -35,7 +35,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778661142,
+              "syncedAt": 1786032399003,
               "runtime": "1 ms",
               "memory": "48.8 MB",
               "githubPath": "LeetCode/Array/Median of Two Sorted Arrays/"
@@ -56,7 +56,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778672302,
+              "syncedAt": 1786032399003,
               "runtime": "36 ms",
               "memory": "146.8 MB",
               "githubPath": "LeetCode/Array/Sliding Window Maximum/"
@@ -74,7 +74,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778672302,
+              "syncedAt": 1786032399003,
               "runtime": "0 ms",
               "memory": "44.9 MB",
               "githubPath": "LeetCode/Array/Next Permutation/"
@@ -96,7 +96,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778672302,
+              "syncedAt": 1786032399003,
               "runtime": "52 ms",
               "memory": "108.1 MB",
               "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
@@ -116,7 +116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778672302,
+              "syncedAt": 1786032399003,
               "runtime": "1 ms",
               "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1785778672302,
+              "syncedAt": 1786032399003,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
