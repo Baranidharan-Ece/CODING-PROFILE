@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-06T16:07:46.117Z",
+  "lastUpdated": "2026-08-06T16:07:53.796Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1295,7 +1295,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778731591,
+              "syncedAt": 1786032473796,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Find Words Containing Character/"
@@ -1313,7 +1313,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778741831,
+              "syncedAt": 1786032473796,
               "runtime": "2 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Number of Words You Can Type/"
@@ -1331,7 +1331,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778741831,
+              "syncedAt": 1786032473796,
               "runtime": "7 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -1349,7 +1349,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778741831,
+              "syncedAt": 1786032473796,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Furthest Point From Origin/"
@@ -1368,7 +1368,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1785778741831,
+              "syncedAt": 1786032473796,
               "runtime": "9 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Sort Array by Increasing Frequency/"
