@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-08T16:40:36.319Z",
+  "lastUpdated": "2026-08-08T16:41:39.874Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1047,7 +1047,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032455216,
+              "syncedAt": 1786207299873,
               "runtime": "2 ms",
               "memory": "62 MB",
               "githubPath": "LeetCode/Array/Maximum Points You Can Obtain from Cards/"
