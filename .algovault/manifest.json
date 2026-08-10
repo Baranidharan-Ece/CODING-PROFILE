@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-09T15:19:54.967Z",
+  "lastUpdated": "2026-08-10T05:05:34.842Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -573,7 +573,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032427478,
+              "syncedAt": 1786338334841,
               "runtime": "2 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
