@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T15:07:20.982Z",
+  "lastUpdated": "2026-08-11T15:12:00.552Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6521,9 +6521,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786460840980,
+              "syncedAt": 1786461120546,
               "runtime": "2 ms",
-              "memory": "44.4 MB",
+              "memory": "44.1 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Integer Greater Than Sequential Prefix Sum/"
             }
           }
