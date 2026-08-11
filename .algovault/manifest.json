@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-10T05:12:34.204Z",
+  "lastUpdated": "2026-08-11T15:07:20.982Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6506,6 +6506,25 @@
               "runtime": "5 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Math/Palindrome Number/"
+            }
+          }
+        },
+        "smallest-missing-integer-greater-than-sequential-prefix-sum": {
+          "questionId": "2996",
+          "title": "Smallest Missing Integer Greater Than Sequential Prefix Sum",
+          "titleSlug": "smallest-missing-integer-greater-than-sequential-prefix-sum",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sorting"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786460840980,
+              "runtime": "2 ms",
+              "memory": "44.4 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Integer Greater Than Sequential Prefix Sum/"
             }
           }
         }

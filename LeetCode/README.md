@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1786338334886" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1786460841051" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -188,6 +188,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2717 | [Semi-Ordered Permutation](./Array/Semi-Ordered%20Permutation/) | Easy |
 | 2942 | [Find Words Containing Character](./Array/Find%20Words%20Containing%20Character/) | Easy |
 | 2946 | [Matrix Similarity After Cyclic Shifts](./Array/Matrix%20Similarity%20After%20Cyclic%20Shifts/) | Easy |
+| 2996 | [Smallest Missing Integer Greater Than Sequential Prefix Sum](./Array/Smallest%20Missing%20Integer%20Greater%20Than%20Sequential%20Prefix%20Sum/) | Easy |
 | 3005 | [Count Elements With Maximum Frequency](./Array/Count%20Elements%20With%20Maximum%20Frequency/) | Easy |
 | 3074 | [Apple Redistribution into Boxes](./Array/Apple%20Redistribution%20into%20Boxes/) | Easy |
 | 3075 | [Maximize Happiness of Selected Children](./Array/Maximize%20Happiness%20of%20Selected%20Children/) | Medium |
