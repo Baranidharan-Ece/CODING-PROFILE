@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-11T15:12:40.702Z",
+  "lastUpdated": "2026-08-12T06:14:18.205Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6525,6 +6525,25 @@
               "runtime": "2 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Integer Greater Than Sequential Prefix Sum/"
+            }
+          }
+        },
+        "length-of-longest-subarray-with-at-most-k-frequency": {
+          "questionId": "2958",
+          "title": "Length of Longest Subarray With at Most K Frequency",
+          "titleSlug": "length-of-longest-subarray-with-at-most-k-frequency",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786515258203,
+              "runtime": "61 ms",
+              "memory": "114.3 MB",
+              "githubPath": "LeetCode/Array/Length of Longest Subarray With at Most K Frequency/"
             }
           }
         }
