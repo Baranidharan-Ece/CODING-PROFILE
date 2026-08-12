@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:14:18.205Z",
+  "lastUpdated": "2026-08-12T06:17:21.695Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6540,9 +6540,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786515258203,
-              "runtime": "61 ms",
-              "memory": "114.3 MB",
+              "syncedAt": 1786515441693,
+              "runtime": "59 ms",
+              "memory": "114.6 MB",
               "githubPath": "LeetCode/Array/Length of Longest Subarray With at Most K Frequency/"
             }
           }
