@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:47:54.129Z",
+  "lastUpdated": "2026-08-17T15:48:04.666Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -96,7 +96,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032399003,
+              "syncedAt": 1786981684666,
               "runtime": "52 ms",
               "memory": "108.1 MB",
               "githubPath": "LeetCode/Array/Sum of GCD of Formed Pairs/"
@@ -116,7 +116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032399003,
+              "syncedAt": 1786981684666,
               "runtime": "1 ms",
               "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032399003,
+              "syncedAt": 1786981684666,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
@@ -150,7 +150,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981684666,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -167,7 +167,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981684666,
               "runtime": "666 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -184,7 +184,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981684666,
               "runtime": "472 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
