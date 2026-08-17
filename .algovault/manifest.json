@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:52:09.150Z",
+  "lastUpdated": "2026-08-17T15:52:27.892Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3823,7 +3823,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640101,
+              "syncedAt": 1786981947891,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle II/"
@@ -3842,7 +3842,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640101,
+              "syncedAt": 1786981947891,
               "runtime": "6 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/H-Index/"
@@ -3860,7 +3860,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640102,
+              "syncedAt": 1786981947892,
               "runtime": "10 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -3884,7 +3884,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640102,
+              "syncedAt": 1786981947892,
               "runtime": "123 ms",
               "memory": "248.3 MB",
               "githubPath": "LeetCode/Array/Power Grid Maintenance/"
@@ -3904,7 +3904,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640103,
+              "syncedAt": 1786981947892,
               "runtime": "3 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Math/Super Pow/"
@@ -3923,7 +3923,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640103,
+              "syncedAt": 1786981947892,
               "runtime": "6 ms",
               "memory": "53.8 MB",
               "githubPath": "LeetCode/Math/Gray Code/"
@@ -3942,7 +3942,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032640103,
+              "syncedAt": 1786981947892,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Rotate Image/"
@@ -3963,7 +3963,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981947892,
               "runtime": "9 ms",
               "memory": "59.1 MB",
               "githubPath": "LeetCode/Linked List/Sort List/"
@@ -3983,7 +3983,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981947892,
               "runtime": "2 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Linked List/Reorder List/"
@@ -4002,7 +4002,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981947892,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -4022,7 +4022,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981947892,
               "runtime": "11 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
@@ -4042,7 +4042,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981947892,
               "runtime": "8 ms",
               "memory": "92.9 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
