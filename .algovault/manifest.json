@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:54:19.309Z",
+  "lastUpdated": "2026-08-17T15:54:34.664Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -5823,7 +5823,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748023,
+              "syncedAt": 1786982074664,
               "runtime": "1 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse String II/"
@@ -5842,7 +5842,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748023,
+              "syncedAt": 1786982074664,
               "runtime": "1 ms",
               "memory": "40.6 MB",
               "githubPath": "LeetCode/Math/Sqrt(x)/"
@@ -5862,7 +5862,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748023,
+              "syncedAt": 1786982074664,
               "runtime": "47 ms",
               "memory": "65.2 MB",
               "githubPath": "LeetCode/Array/Successful Pairs of Spells and Potions/"
@@ -5882,7 +5882,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748023,
+              "syncedAt": 1786982074664,
               "runtime": "2 ms",
               "memory": "42.5 MB",
               "githubPath": "LeetCode/String/Remove Duplicate Letters/"
@@ -5904,7 +5904,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748024,
+              "syncedAt": 1786982074664,
               "runtime": "13 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Hash Table/Sort Characters By Frequency/"
@@ -5923,7 +5923,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764407,
+              "syncedAt": 1786982074664,
               "runtime": "9 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Hash Table/Valid Anagram/"
@@ -5943,7 +5943,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764407,
+              "syncedAt": 1786982074664,
               "runtime": "25 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Hash Table/First Unique Character in a String/"
@@ -5962,7 +5962,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764407,
+              "syncedAt": 1786982074664,
               "runtime": "0 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Math/Power of Two/"
@@ -5980,7 +5980,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764408,
+              "syncedAt": 1786982074664,
               "runtime": "0 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Array/Single Number II/"
@@ -5998,7 +5998,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764408,
+              "syncedAt": 1786982074664,
               "runtime": "1 ms",
               "memory": "46.2 MB",
               "githubPath": "LeetCode/Array/Find First and Last Position of Element in Sorted Array/"
@@ -6016,7 +6016,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764408,
+              "syncedAt": 1786982074664,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Search in Rotated Sorted Array/"
@@ -6034,7 +6034,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032764408,
+              "syncedAt": 1786982074664,
               "runtime": "1 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Array/Concatenation of Array/"
