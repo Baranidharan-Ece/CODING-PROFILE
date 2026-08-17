@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:52:27.892Z",
+  "lastUpdated": "2026-08-17T15:52:40.345Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4061,7 +4061,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650236,
+              "syncedAt": 1786981960345,
               "runtime": "1 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
@@ -4080,7 +4080,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650237,
+              "syncedAt": 1786981960345,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Next Greater Element III/"
@@ -4097,7 +4097,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650237,
+              "syncedAt": 1786981960345,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
@@ -4115,7 +4115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650237,
+              "syncedAt": 1786981960345,
               "runtime": "0 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Single Element in a Sorted Array/"
@@ -4134,7 +4134,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032650237,
+              "syncedAt": 1786981960345,
               "runtime": "23 ms",
               "memory": "54.8 MB",
               "githubPath": "LeetCode/Array/Remove Boxes/"
@@ -4155,7 +4155,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032662817,
+              "syncedAt": 1786981960345,
               "runtime": "1 ms",
               "memory": "41 MB",
               "githubPath": "LeetCode/Array/Longest Uncommon Subsequence II/"
@@ -4175,7 +4175,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032662818,
+              "syncedAt": 1786981960345,
               "runtime": "5 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Coin Change II/"
@@ -4193,7 +4193,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032662818,
+              "syncedAt": 1786981960345,
               "runtime": "0 ms",
               "memory": "44.4 MB",
               "githubPath": "LeetCode/Array/Super Washing Machines/"
