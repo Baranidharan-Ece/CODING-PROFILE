@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:51:16.010Z",
+  "lastUpdated": "2026-08-17T15:51:33.878Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3062,7 +3062,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893877,
               "runtime": "51 ms",
               "memory": "83.8 MB",
               "githubPath": "LeetCode/Array/Paths in Matrix Whose Sum Is Divisible by K/"
@@ -3081,7 +3081,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893877,
               "runtime": "2 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Hash Table/Smallest Integer Divisible by K/"
@@ -3099,7 +3099,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893877,
               "runtime": "3 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Binary Prefix Divisible By 5/"
@@ -3119,7 +3119,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893878,
               "runtime": "4 ms",
               "memory": "49.5 MB",
               "githubPath": "LeetCode/Array/Greatest Sum Divisible by Three/"
@@ -3137,7 +3137,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893878,
               "runtime": "0 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Find Minimum Operations to Make All Elements Divisible by Three/"
@@ -3157,7 +3157,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893878,
               "runtime": "38 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Hash Table/Unique Length-3 Palindromic Subsequences/"
@@ -3176,7 +3176,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032589246,
+              "syncedAt": 1786981893878,
               "runtime": "9 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Set Intersection Size At Least Two/"
@@ -3196,7 +3196,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608042,
+              "syncedAt": 1786981893878,
               "runtime": "4 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Array/Keep Multiplying Found Values by Two/"
@@ -3213,7 +3213,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "0 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/1-bit and 2-bit Characters/"
@@ -3230,7 +3230,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "1 ms",
               "memory": "65.7 MB",
               "githubPath": "LeetCode/Array/Check If All 1's Are at Least Length K Places Away/"
@@ -3248,7 +3248,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "6 ms",
               "memory": "46.4 MB",
               "githubPath": "LeetCode/Math/Number of Substrings With Only 1s/"
@@ -3266,7 +3266,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "1360 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/String/Count the Number of Substrings With Dominant Ones/"
@@ -3284,7 +3284,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Arranging Coins/"
@@ -3302,7 +3302,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981893878,
               "runtime": "0 ms",
               "memory": "41.8 MB",
               "githubPath": "LeetCode/Math/Valid Perfect Square/"
