@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:49:24.890Z",
+  "lastUpdated": "2026-08-17T15:49:32.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1461,7 +1461,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032490190,
+              "syncedAt": 1786981772587,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Mirror Distance of an Integer/"
@@ -1480,7 +1480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032490190,
+              "syncedAt": 1786981772587,
               "runtime": "16 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Three Numbers/"
@@ -1498,7 +1498,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032490190,
+              "syncedAt": 1786981772587,
               "runtime": "0 ms",
               "memory": "47.2 MB",
               "githubPath": "LeetCode/Array/Shortest Distance to Target String in a Circular Array/"
@@ -1515,7 +1515,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032502777,
+              "syncedAt": 1786981772587,
               "runtime": "1 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Minimum Distance to the Target Element/"
@@ -1534,7 +1534,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032502777,
+              "syncedAt": 1786981772588,
               "runtime": "8 ms",
               "memory": "46.8 MB",
               "githubPath": "LeetCode/Array/Minimum Difference Between Highest and Lowest of K Scores/"
