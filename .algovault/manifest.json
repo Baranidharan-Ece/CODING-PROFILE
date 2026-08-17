@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:52:57.050Z",
+  "lastUpdated": "2026-08-17T15:53:11.325Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2480,7 +2480,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032687811,
+              "syncedAt": 1786981991325,
               "runtime": "9 ms",
               "memory": "57.6 MB",
               "githubPath": "LeetCode/Array/Maximum Gap/"
@@ -4470,7 +4470,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676065,
+              "syncedAt": 1786981991325,
               "runtime": "0 ms",
               "memory": "41.3 MB",
               "githubPath": "LeetCode/Math/Reaching Points/"
@@ -4489,7 +4489,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676065,
+              "syncedAt": 1786981991325,
               "runtime": "6 ms",
               "memory": "55 MB",
               "githubPath": "LeetCode/Array/Self Crossing/"
@@ -4507,7 +4507,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676066,
+              "syncedAt": 1786981991325,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Bulb Switcher/"
@@ -4531,7 +4531,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676066,
+              "syncedAt": 1786981991325,
               "runtime": "40 ms",
               "memory": "55 MB",
               "githubPath": "LeetCode/Array/Reverse Pairs/"
@@ -4551,7 +4551,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676067,
+              "syncedAt": 1786981991325,
               "runtime": "41 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Longest Increasing Subsequence/"
@@ -4575,7 +4575,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676068,
+              "syncedAt": 1786981991325,
               "runtime": "50 ms",
               "memory": "60.2 MB",
               "githubPath": "LeetCode/Array/Count of Range Sum/"
@@ -4593,7 +4593,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676068,
+              "syncedAt": 1786981991325,
               "runtime": "4 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Find the Closest Palindrome/"
@@ -4614,7 +4614,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676068,
+              "syncedAt": 1786981991325,
               "runtime": "39 ms",
               "memory": "54 MB",
               "githubPath": "LeetCode/Array/Perfect Rectangle/"
@@ -4632,7 +4632,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676068,
+              "syncedAt": 1786981991325,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Integer Break/"
@@ -4652,7 +4652,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032676068,
+              "syncedAt": 1786981991325,
               "runtime": "9 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/String/Remove K Digits/"
@@ -4671,7 +4671,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032687811,
+              "syncedAt": 1786981991325,
               "runtime": "8 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Maximum Product of Word Lengths/"
@@ -4689,7 +4689,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032687811,
+              "syncedAt": 1786981991325,
               "runtime": "1 ms",
               "memory": "41.7 MB",
               "githubPath": "LeetCode/String/Additive Number/"
