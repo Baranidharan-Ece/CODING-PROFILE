@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:53:32.919Z",
+  "lastUpdated": "2026-08-17T15:53:50.960Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4953,7 +4953,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704811,
+              "syncedAt": 1786982030959,
               "runtime": "3 ms",
               "memory": "45.7 MB",
               "githubPath": "LeetCode/Array/Jump Game/"
@@ -4972,7 +4972,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704811,
+              "syncedAt": 1786982030960,
               "runtime": "0 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Array/Spiral Matrix/"
@@ -4991,7 +4991,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704811,
+              "syncedAt": 1786982030960,
               "runtime": "1 ms",
               "memory": "57.4 MB",
               "githubPath": "LeetCode/Array/Maximum Subarray/"
@@ -5010,7 +5010,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704811,
+              "syncedAt": 1786982030960,
               "runtime": "0 ms",
               "memory": "40.8 MB",
               "githubPath": "LeetCode/Math/Number of Digit One/"
@@ -5032,7 +5032,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704813,
+              "syncedAt": 1786982030960,
               "runtime": "36 ms",
               "memory": "44.7 MB",
               "githubPath": "LeetCode/Array/Max Points on a Line/"
@@ -5050,7 +5050,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704813,
+              "syncedAt": 1786982030960,
               "runtime": "4 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Words in a String III/"
@@ -5069,7 +5069,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704814,
+              "syncedAt": 1786982030960,
               "runtime": "1 ms",
               "memory": "45.4 MB",
               "githubPath": "LeetCode/Math/Fizz Buzz/"
@@ -5088,7 +5088,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704814,
+              "syncedAt": 1786982030960,
               "runtime": "1 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/Math/Add Strings/"
@@ -5106,7 +5106,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704814,
+              "syncedAt": 1786982030960,
               "runtime": "3 ms",
               "memory": "45.3 MB",
               "githubPath": "LeetCode/Two Pointers/Reverse Vowels of a String/"
@@ -5124,7 +5124,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032704814,
+              "syncedAt": 1786982030960,
               "runtime": "17 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Hash Table/Isomorphic Strings/"
@@ -5142,7 +5142,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032718735,
+              "syncedAt": 1786982030960,
               "runtime": "2 ms",
               "memory": "42.8 MB",
               "githubPath": "LeetCode/Two Pointers/Valid Palindrome/"
@@ -5162,7 +5162,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032718735,
+              "syncedAt": 1786982030960,
               "runtime": "4 ms",
               "memory": "45.8 MB",
               "githubPath": "LeetCode/Array/Island Perimeter/"
@@ -5199,7 +5199,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032718735,
+              "syncedAt": 1786982030960,
               "runtime": "26 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Super Ugly Number/"
@@ -5218,7 +5218,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032718735,
+              "syncedAt": 1786982030960,
               "runtime": "0 ms",
               "memory": "41.6 MB",
               "githubPath": "LeetCode/Array/Game of Life/"
