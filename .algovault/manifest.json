@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:51:33.878Z",
+  "lastUpdated": "2026-08-17T15:51:50.216Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3341,7 +3341,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "14 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Two Pointers/Longest Palindromic Substring/"
@@ -3360,7 +3360,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "12 ms",
               "memory": "86.9 MB",
               "githubPath": "LeetCode/Array/Increment Submatrices by One/"
@@ -3380,7 +3380,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "7 ms",
               "memory": "49.7 MB",
               "githubPath": "LeetCode/Array/Group Anagrams/"
@@ -3399,7 +3399,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "7 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/String/Maximum Number of Operations to Move Ones to the End/"
@@ -3417,7 +3417,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/Math/Excel Sheet Column Number/"
@@ -3438,7 +3438,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "1 ms",
               "memory": "44.1 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Operations to Make All Array Elements Equal to 1/"
@@ -3478,7 +3478,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "19 ms",
               "memory": "43.8 MB",
               "githubPath": "LeetCode/Array/Ones and Zeroes/"
@@ -3499,7 +3499,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032608043,
+              "syncedAt": 1786981910216,
               "runtime": "12 ms",
               "memory": "137.6 MB",
               "githubPath": "LeetCode/Array/Minimum Operations to Convert All Elements to Zero/"
@@ -3518,7 +3518,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032622393,
+              "syncedAt": 1786981910216,
               "runtime": "4 ms",
               "memory": "42 MB",
               "githubPath": "LeetCode/Math/Prime Number of Set Bits in Binary Representation/"
@@ -3537,7 +3537,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032622393,
+              "syncedAt": 1786981910216,
               "runtime": "3 ms",
               "memory": "45.6 MB",
               "githubPath": "LeetCode/Hash Table/Integer to Roman/"
