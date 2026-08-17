@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:48:04.666Z",
+  "lastUpdated": "2026-08-17T15:48:15.147Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -201,7 +201,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "273 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -218,7 +218,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "588 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -235,7 +235,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "368 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -252,7 +252,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "423 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -271,7 +271,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "29 ms",
               "memory": "95.4 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
@@ -288,7 +288,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "592 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
@@ -305,7 +305,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695146,
               "runtime": "528 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/User Activity for the Past 30 Days I/"
@@ -322,7 +322,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695147,
               "runtime": "456 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Article Views I/"
@@ -339,7 +339,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695147,
               "runtime": "312 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Triangle Judgement/"
@@ -356,7 +356,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786032409534,
+              "syncedAt": 1786981695147,
               "runtime": "407 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Patients With a Condition/"
