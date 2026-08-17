@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-12T06:17:21.695Z",
+  "lastUpdated": "2026-08-17T15:47:29.096Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -573,9 +573,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786338334841,
+              "syncedAt": 1786981649096,
               "runtime": "2 ms",
-              "memory": "42.9 MB",
+              "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
             }
           }
@@ -5805,9 +5805,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032748022,
+              "syncedAt": 1786981649096,
               "runtime": "1 ms",
-              "memory": "41.2 MB",
+              "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
             }
           }
@@ -6521,7 +6521,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786461160698,
+              "syncedAt": 1786981649095,
               "runtime": "2 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Integer Greater Than Sequential Prefix Sum/"
@@ -6540,10 +6540,49 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786515441693,
+              "syncedAt": 1786981649095,
               "runtime": "59 ms",
               "memory": "114.6 MB",
               "githubPath": "LeetCode/Array/Length of Longest Subarray With at Most K Frequency/"
+            }
+          }
+        },
+        "short-encoding-of-words": {
+          "questionId": "820",
+          "title": "Short Encoding of Words",
+          "titleSlug": "short-encoding-of-words",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "String",
+            "Trie"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786981649093,
+              "runtime": "17 ms",
+              "memory": "46.9 MB",
+              "githubPath": "LeetCode/Array/Short Encoding of Words/"
+            }
+          }
+        },
+        "maximum-length-substring-with-two-occurrences": {
+          "questionId": "3090",
+          "title": "Maximum Length Substring With Two Occurrences",
+          "titleSlug": "maximum-length-substring-with-two-occurrences",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String",
+            "Sliding Window"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1786981649095,
+              "runtime": "1 ms",
+              "memory": "43.4 MB",
+              "githubPath": "LeetCode/Hash Table/Maximum Length Substring With Two Occurrences/"
             }
           }
         }

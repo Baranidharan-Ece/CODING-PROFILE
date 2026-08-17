@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1786515441762" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1786981649106" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -140,6 +140,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 766 | [Toeplitz Matrix](./Array/Toeplitz%20Matrix/) | Easy |
 | 781 | [Rabbits in Forest](./Array/Rabbits%20in%20Forest/) | Medium |
 | 782 | [Transform to Chessboard](./Array/Transform%20to%20Chessboard/) | Hard |
+| 820 | [Short Encoding of Words](./Array/Short%20Encoding%20of%20Words/) | Medium |
 | 840 | [Magic Squares In Grid](./Array/Magic%20Squares%20In%20Grid/) | Medium |
 | 845 | [Longest Mountain in Array](./Array/Longest%20Mountain%20in%20Array/) | Medium |
 | 877 | [Stone Game](./Array/Stone%20Game/) | Medium |
@@ -326,6 +327,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 1015 | [Smallest Integer Divisible by K](./Hash%20Table/Smallest%20Integer%20Divisible%20by%20K/) | Medium |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](./Hash%20Table/Maximum%20Number%20of%20Words%20You%20Can%20Type/) | Easy |
+| 3090 | [Maximum Length Substring With Two Occurrences](./Hash%20Table/Maximum%20Length%20Substring%20With%20Two%20Occurrences/) | Easy |
 
 </details>
 
