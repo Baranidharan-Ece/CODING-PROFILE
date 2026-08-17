@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:50:09.581Z",
+  "lastUpdated": "2026-08-17T15:50:19.588Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2032,7 +2032,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032532780,
+              "syncedAt": 1786981819588,
               "runtime": "13 ms",
               "memory": "47.8 MB",
               "githubPath": "LeetCode/Array/Relative Ranks/"
@@ -2050,7 +2050,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032532780,
+              "syncedAt": 1786981819588,
               "runtime": "3 ms",
               "memory": "48.6 MB",
               "githubPath": "LeetCode/Array/Teemo Attacking/"
@@ -2067,7 +2067,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032532780,
+              "syncedAt": 1786981819588,
               "runtime": "3 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Array/Summary Ranges/"
@@ -2085,7 +2085,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032540673,
+              "syncedAt": 1786981819588,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
@@ -2108,7 +2108,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032540673,
+              "syncedAt": 1786981819588,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Minimum Pair Removal to Sort Array I/"
@@ -2126,7 +2126,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032540673,
+              "syncedAt": 1786981819588,
               "runtime": "45 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -2146,7 +2146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032540673,
+              "syncedAt": 1786981819588,
               "runtime": "15 ms",
               "memory": "51.4 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -2164,7 +2164,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786032540673,
+              "syncedAt": 1786981819588,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Construct the Minimum Bitwise Array I/"
