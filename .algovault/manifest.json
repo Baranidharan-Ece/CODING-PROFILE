@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T10:01:26.638Z",
+  "lastUpdated": "2026-08-18T10:05:44.091Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6597,9 +6597,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787047286636,
+              "syncedAt": 1787047544089,
               "runtime": "1 ms",
-              "memory": "44.3 MB",
+              "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
             }
           }
