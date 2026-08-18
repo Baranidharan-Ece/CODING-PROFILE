@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1786982108354" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787047286712" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -202,6 +202,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3418 | [Maximum Amount of Money Robot Can Earn](./Array/Maximum%20Amount%20of%20Money%20Robot%20Can%20Earn/) | Medium |
 | 3432 | [Count Partitions with Even Sum Difference](./Array/Count%20Partitions%20with%20Even%20Sum%20Difference/) | Easy |
 | 3433 | [Count Mentions Per User](./Array/Count%20Mentions%20Per%20User/) | Medium |
+| 3471 | [Find the Largest Almost Missing Integer](./Array/Find%20the%20Largest%20Almost%20Missing%20Integer/) | Easy |
 | 3507 | [Minimum Pair Removal to Sort Array I](./Array/Minimum%20Pair%20Removal%20to%20Sort%20Array%20I/) | Easy |
 | 3512 | [Minimum Operations to Make Array Sum Divisible by K](./Array/Minimum%20Operations%20to%20Make%20Array%20Sum%20Divisible%20by%20K/) | Easy |
 | 3531 | [Count Covered Buildings](./Array/Count%20Covered%20Buildings/) | Medium |

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-17T15:55:08.337Z",
+  "lastUpdated": "2026-08-18T10:01:26.638Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6583,6 +6583,24 @@
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Length Substring With Two Occurrences/"
+            }
+          }
+        },
+        "find-the-largest-almost-missing-integer": {
+          "questionId": "3471",
+          "title": "Find the Largest Almost Missing Integer",
+          "titleSlug": "find-the-largest-almost-missing-integer",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787047286636,
+              "runtime": "1 ms",
+              "memory": "44.3 MB",
+              "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
             }
           }
         }
