@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-18T10:05:44.091Z",
+  "lastUpdated": "2026-08-19T09:48:58.211Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6601,6 +6601,26 @@
               "runtime": "1 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
+            }
+          }
+        },
+        "cinema-seat-allocation": {
+          "questionId": "1386",
+          "title": "Cinema Seat Allocation",
+          "titleSlug": "cinema-seat-allocation",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Greedy",
+            "Bit Manipulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787132938205,
+              "runtime": "16 ms",
+              "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Cinema Seat Allocation/"
             }
           }
         }
