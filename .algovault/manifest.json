@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T09:48:58.211Z",
+  "lastUpdated": "2026-08-19T09:50:21.041Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6620,6 +6620,12 @@
               "syncedAt": 1787132938205,
               "runtime": "16 ms",
               "memory": "52.6 MB",
+              "githubPath": "LeetCode/Array/Cinema Seat Allocation/"
+            },
+            "24252627282930313233343536                        maxfamilies -= 2;                         if (left && right) {                maxfamilies += 2;            } else if (left || right || mid) {                maxfamilies += 1;            }        }                return maxfamilies;    }}": {
+              "syncedAt": 1787133021038,
+              "runtime": "0 ms",
+              "memory": "N/A",
               "githubPath": "LeetCode/Array/Cinema Seat Allocation/"
             }
           }

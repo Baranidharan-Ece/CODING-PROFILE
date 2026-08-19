@@ -1,0 +1,13 @@
+            
+            maxFamilies -= 2; 
+            
+            if (left && right) {
+                maxFamilies += 2;
+            } else if (left || right || mid) {
+                maxFamilies += 1;
+            }
+        }
+        
+        return maxFamilies;
+    }
+}

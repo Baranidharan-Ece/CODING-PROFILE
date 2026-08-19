@@ -1,65 +1,78 @@
 # 1386. Cinema Seat Allocation
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/cinema-seat-allocation/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/02/14/cinema_seats_1.png" style="width: 400px; height: 149px;" /></p>
+A cinema has n rows of seats, numbered from 1 to n. Each row has 10 seats, numbered from 1 to 10.
 
-<p>A cinema has <code>n</code> rows of seats, numbered from 1 to <code>n</code>. Each row has 10 seats, numbered from 1 to 10.</p>
+You are given a 2D integer array reservedSeats, where reservedSeats[i] = [rowi, seati] means that seat seati in row rowi is already reserved.
 
-<p>You are given a 2D integer array <code data-end="170" data-start="155">reservedSeats</code>, where <code data-end="212" data-start="178">reservedSeats[i] = [row<sub>i</sub>, seat<sub>i</sub>]</code> means that seat <code data-end="236" data-start="229">seat<sub>i</sub></code> in row <code data-end="250" data-start="244">row<sub>i</sub></code> is already reserved.</p>
+A four-person group must be assigned to four seats in the same row. The group can be seated in one of the following seat blocks:
 
-<p>A four-person group must be assigned to four seats in the <strong>same</strong> row. The group can be seated in one of the following seat blocks:</p>
 
-<ul>
-	<li>seats <code data-end="423" data-start="411">2, 3, 4, 5</code></li>
-	<li>seats <code data-end="444" data-start="432">4, 5, 6, 7</code></li>
-	<li>seats <code data-end="465" data-start="453">6, 7, 8, 9</code></li>
-</ul>
+	seats 2, 3, 4, 5
+	seats 4, 5, 6, 7
+	seats 6, 7, 8, 9
 
-<p>A block can be used only if <strong>none</strong> of its seats are reserved. Each seat can be assigned to <strong>at most </strong>one group.</p>
 
-<p>Return an integer denoting the <strong>maximum</strong> number of four-person groups that can be assigned.</p>
+A block can be used only if none of its seats are reserved. Each seat can be assigned to at most one group.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+Return an integer denoting the maximum number of four-person groups that can be assigned.
 
-<p><img alt="" src="https://assets.leetcode.com/uploads/2020/02/14/cinema_seats_3.png" style="width: 400px; height: 96px;" /></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> n = 3, reservedSeats = [[1,2],[1,3],[1,8],[2,6],[3,1],[3,10]]
-<strong>Output:</strong> 4
-<strong>Explanation:</strong> The figure above shows an optimal allocation of four groups. Seats marked in blue are already reserved, and each set of four contiguous seats marked in orange is assigned to one group.
-</pre>
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> n = 2, reservedSeats = [[2,1],[1,8],[2,6]]
-<strong>Output:</strong> 2
-</pre>
+Input: n = 3, reservedSeats = [[1,2],[1,3],[1,8],[2,6],[3,1],[3,10]]
+Output: 4
+Explanation: The figure above shows an optimal allocation of four groups. Seats marked in blue are already reserved, and each set of four contiguous seats marked in orange is assigned to one group.
 
-<p><strong class="example">Example 3:</strong></p>
 
-<pre>
-<strong>Input:</strong> n = 4, reservedSeats = [[4,3],[1,4],[4,6],[1,7]]
-<strong>Output:</strong> 4
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: n = 2, reservedSeats = [[2,1],[1,8],[2,6]]
+Output: 2
 
-<ul>
-	<li><code>1 &lt;= n &lt;= 10<sup>9</sup></code></li>
-	<li><code>1 &lt;= reservedSeats.length &lt;= min(10 * n, 10<sup>4</sup>)</code></li>
-	<li><code>reservedSeats[i] == [row<sub>i</sub>, seat<sub>i</sub>]</code></li>
-	<li><code>1 &lt;= row<sub>i</sub> &lt;= n</code></li>
-	<li><code>1 &lt;= seat<sub>i</sub> &lt;= 10</code></li>
-	<li>All <code>reservedSeats[i]</code> are distinct.</li>
-</ul>
 
+Example 3:
+
+Input: n = 4, reservedSeats = [[4,3],[1,4],[4,6],[1,7]]
+Output: 4
+
+
+ 
+Constraints:
+
+
+	1 <= n <= 109
+	1 <= reservedSeats.length <= min(10 * n, 104)
+	reservedSeats[i] == [rowi, seati]
+	1 <= rowi <= n
+	1 <= seati <= 10
+	All reservedSeats[i] are distinct.
+
+## Examples
+
+```
+Input: n = 3, reservedSeats = [[1,2],[1,3],[1,8],[2,6],[3,1],[3,10]]
+Output: 4
+Explanation: The figure above shows an optimal allocation of four groups. Seats marked in blue are already reserved, and each set of four contiguous seats marked in orange is assigned to one group.
+
+Input: n = 2, reservedSeats = [[2,1],[1,8],[2,6]]
+Output: 2
+
+Input: n = 4, reservedSeats = [[4,3],[1,4],[4,6],[1,7]]
+Output: 4
+```
+
+## Constraints
+
+- seats 2, 3, 4, 5
+- seats 4, 5, 6, 7
+- seats 6, 7, 8, 9
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
