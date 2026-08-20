@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-19T09:54:38.503Z",
+  "lastUpdated": "2026-08-20T10:26:52.882Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6627,6 +6627,24 @@
               "runtime": "0 ms",
               "memory": "N/A",
               "githubPath": "LeetCode/Array/Cinema Seat Allocation/"
+            }
+          }
+        },
+        "distribute-elements-into-two-arrays-i": {
+          "questionId": "3069",
+          "title": "Distribute Elements Into Two Arrays I",
+          "titleSlug": "distribute-elements-into-two-arrays-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787221612880,
+              "runtime": "1 ms",
+              "memory": "46.6 MB",
+              "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
             }
           }
         }
