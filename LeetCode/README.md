@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787221612945" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787288500245" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -131,6 +131,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 540 | [Single Element in a Sorted Array](./Array/Single%20Element%20in%20a%20Sorted%20Array/) | Medium |
 | 546 | [Remove Boxes](./Array/Remove%20Boxes/) | Hard |
 | 561 | [Array Partition](./Array/Array%20Partition/) | Easy |
+| 566 | [Reshape the Matrix](./Array/Reshape%20the%20Matrix/) | Easy |
 | 598 | [Range Addition II](./Array/Range%20Addition%20II/) | Easy |
 | 628 | [Maximum Product of Three Numbers](./Array/Maximum%20Product%20of%20Three%20Numbers/) | Easy |
 | 643 | [Maximum Average Subarray I](./Array/Maximum%20Average%20Subarray%20I/) | Easy |

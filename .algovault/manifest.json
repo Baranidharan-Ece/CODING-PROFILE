@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-20T10:26:52.882Z",
+  "lastUpdated": "2026-08-21T05:01:40.196Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6645,6 +6645,25 @@
               "runtime": "1 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
+            }
+          }
+        },
+        "reshape-the-matrix": {
+          "questionId": "566",
+          "title": "Reshape the Matrix",
+          "titleSlug": "reshape-the-matrix",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Matrix",
+            "Simulation"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1787288500194,
+              "runtime": "0 ms",
+              "memory": "47.5 MB",
+              "githubPath": "LeetCode/Array/Reshape the Matrix/"
             }
           }
         }
