@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:01:40.196Z",
+  "lastUpdated": "2026-08-21T05:03:17.843Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6660,9 +6660,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787288500194,
-              "runtime": "0 ms",
-              "memory": "47.5 MB",
+              "syncedAt": 1787288597841,
+              "runtime": "1 ms",
+              "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
             }
           }
