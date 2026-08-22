@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-21T05:03:17.843Z",
+  "lastUpdated": "2026-08-22T07:57:54.679Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6664,6 +6664,23 @@
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
+            }
+          }
+        },
+        "check-divisibility-by-digit-sum-and-product": {
+          "questionId": "3622",
+          "title": "Check Divisibility by Digit Sum and Product",
+          "titleSlug": "check-divisibility-by-digit-sum-and-product",
+          "difficulty": "Easy",
+          "tags": [
+            "Math"
+          ],
+          "solutions": {
+            "1234567891011121314class solution {    public boolean checkdivisibility(int n) {        boolean ans=false;        int a=n;        int sum=0;        int pro=1;         while (n>0){            int temp=n%10;            sum+=temp;            pro=pro*temp;            n/=10;            }            int max=sum+pro;            if(a%max==0){": {
+              "syncedAt": 1787385474678,
+              "runtime": "N/A",
+              "memory": "N/A",
+              "githubPath": "LeetCode/Math/Check Divisibility by Digit Sum and Product/"
             }
           }
         }

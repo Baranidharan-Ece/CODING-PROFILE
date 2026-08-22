@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787288597896" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787385474720" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -412,6 +412,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 2443 | [Sum of Number and Its Reverse](./Math/Sum%20of%20Number%20and%20Its%20Reverse/) | Medium |
 | 3099 | [Harshad Number](./Math/Harshad%20Number/) | Easy |
 | 3461 | [Check If Digits Are Equal in String After Operations I](./Math/Check%20If%20Digits%20Are%20Equal%20in%20String%20After%20Operations%20I/) | Easy |
+| 3622 | [Check Divisibility by Digit Sum and Product](./Math/Check%20Divisibility%20by%20Digit%20Sum%20and%20Product/) | Easy |
 | 3783 | [Mirror Distance of an Integer](./Math/Mirror%20Distance%20of%20an%20Integer/) | Easy |
 
 </details>
