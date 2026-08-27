@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T08:39:51.324Z",
+  "lastUpdated": "2026-08-27T08:42:52.647Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1068,9 +1068,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787819991323,
-              "runtime": "3 ms",
-              "memory": "55.3 MB",
+              "syncedAt": 1787820172646,
+              "runtime": "42 ms",
+              "memory": "56.6 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
             }
           }
