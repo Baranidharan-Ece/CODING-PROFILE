@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:36:09.783Z",
+  "lastUpdated": "2026-09-03T15:36:16.807Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1368,7 +1368,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981758783,
+              "syncedAt": 1788449776807,
               "runtime": "9 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Array/Sort Array by Increasing Frequency/"
@@ -1389,7 +1389,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981758783,
+              "syncedAt": 1788449776807,
               "runtime": "2 ms",
               "memory": "45.2 MB",
               "githubPath": "LeetCode/Array/Check If N and Its Double Exist/"
@@ -1408,7 +1408,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981764890,
+              "syncedAt": 1788449776807,
               "runtime": "2 ms",
               "memory": "55.6 MB",
               "githubPath": "LeetCode/Array/Number of Equivalent Domino Pairs/"
@@ -1426,7 +1426,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981764890,
+              "syncedAt": 1788449776807,
               "runtime": "0 ms",
               "memory": "43.3 MB",
               "githubPath": "LeetCode/Array/Two Furthest Houses With Different Colors/"
