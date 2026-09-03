@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:34:30.420Z",
+  "lastUpdated": "2026-09-03T15:34:39.868Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -573,7 +573,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649096,
+              "syncedAt": 1788449679868,
               "runtime": "2 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/Array/Number of Squareful Arrays/"
@@ -5805,7 +5805,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649096,
+              "syncedAt": 1788449679868,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Math/Divide Two Integers/"
@@ -6521,7 +6521,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649095,
+              "syncedAt": 1788449679868,
               "runtime": "2 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Integer Greater Than Sequential Prefix Sum/"
@@ -6540,7 +6540,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649095,
+              "syncedAt": 1788449679867,
               "runtime": "59 ms",
               "memory": "114.6 MB",
               "githubPath": "LeetCode/Array/Length of Longest Subarray With at Most K Frequency/"
