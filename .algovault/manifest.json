@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:34:59.869Z",
+  "lastUpdated": "2026-09-03T15:35:10.162Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -116,7 +116,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981684666,
+              "syncedAt": 1788449710162,
               "runtime": "1 ms",
               "memory": "69.2 MB",
               "githubPath": "LeetCode/Array/Minimum Size Subarray Sum/"
@@ -133,7 +133,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981684666,
+              "syncedAt": 1788449710162,
               "runtime": "410 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Whose Manager Left the Company/"
@@ -150,7 +150,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981684666,
+              "syncedAt": 1788449710162,
               "runtime": "482 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Managers with at Least 5 Direct Reports/"
@@ -167,7 +167,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981684666,
+              "syncedAt": 1788449710162,
               "runtime": "666 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Department Highest Salary/"
@@ -184,7 +184,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981684666,
+              "syncedAt": 1788449710162,
               "runtime": "472 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Nth Highest Salary/"
@@ -201,7 +201,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "273 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Second Highest Salary/"
@@ -218,7 +218,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "588 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Customers Who Never Order/"
@@ -235,7 +235,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "368 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Employees Earning More Than Their Managers/"
@@ -252,7 +252,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "423 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Combine Two Tables/"
@@ -271,7 +271,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "29 ms",
               "memory": "95.4 MB",
               "githubPath": "LeetCode/Array/Longest Consecutive Sequence/"
@@ -288,7 +288,7 @@
           ],
           "solutions": {
             "mysql": {
-              "syncedAt": 1786981695146,
+              "syncedAt": 1788449710162,
               "runtime": "592 ms",
               "memory": "0.0B",
               "githubPath": "LeetCode/Database/Rising Temperature/"
