@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:38:51.176Z",
+  "lastUpdated": "2026-09-03T15:39:04.509Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3963,7 +3963,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449944509,
               "runtime": "9 ms",
               "memory": "59.1 MB",
               "githubPath": "LeetCode/Linked List/Sort List/"
@@ -3983,7 +3983,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449944509,
               "runtime": "2 ms",
               "memory": "49.4 MB",
               "githubPath": "LeetCode/Linked List/Reorder List/"
@@ -4002,7 +4002,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449944509,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Hash Table/Letter Combinations of a Phone Number/"
@@ -4022,7 +4022,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449944509,
               "runtime": "11 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/Find X-Sum of All K-Long Subarrays I/"
@@ -4042,7 +4042,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449944509,
               "runtime": "8 ms",
               "memory": "92.9 MB",
               "githubPath": "LeetCode/Array/Minimum Time to Make Rope Colorful/"
@@ -4061,7 +4061,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981960345,
+              "syncedAt": 1788449944509,
               "runtime": "1 ms",
               "memory": "45.5 MB",
               "githubPath": "LeetCode/Array/The Two Sneaky Numbers of Digitville/"
@@ -4080,7 +4080,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981960345,
+              "syncedAt": 1788449944509,
               "runtime": "0 ms",
               "memory": "40.4 MB",
               "githubPath": "LeetCode/Math/Next Greater Element III/"
@@ -4097,7 +4097,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981960345,
+              "syncedAt": 1788449944509,
               "runtime": "0 ms",
               "memory": "40.7 MB",
               "githubPath": "LeetCode/Math/Factorial Trailing Zeroes/"
@@ -4115,7 +4115,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981960345,
+              "syncedAt": 1788449944509,
               "runtime": "0 ms",
               "memory": "50.2 MB",
               "githubPath": "LeetCode/Array/Single Element in a Sorted Array/"
@@ -4134,7 +4134,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981960345,
+              "syncedAt": 1788449944509,
               "runtime": "23 ms",
               "memory": "54.8 MB",
               "githubPath": "LeetCode/Array/Remove Boxes/"
