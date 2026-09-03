@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1787820172703" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1788449660108" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -211,6 +211,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3531 | [Count Covered Buildings](./Array/Count%20Covered%20Buildings/) | Medium |
 | 3542 | [Minimum Operations to Convert All Elements to Zero](./Array/Minimum%20Operations%20to%20Convert%20All%20Elements%20to%20Zero/) | Medium |
 | 3562 | [Maximum Profit from Trading Stocks with Discounts](./Array/Maximum%20Profit%20from%20Trading%20Stocks%20with%20Discounts/) | Hard |
+| 3568 | [Minimum Moves to Clean the Classroom](./Array/Minimum%20Moves%20to%20Clean%20the%20Classroom/) | Medium |
 | 3573 | [Best Time to Buy and Sell Stock V](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20V/) | Medium |
 | 3577 | [Count the Number of Computer Unlocking Permutations](./Array/Count%20the%20Number%20of%20Computer%20Unlocking%20Permutations/) | Medium |
 | 3578 | [Count Partitions With Max-Min Difference at Most K](./Array/Count%20Partitions%20With%20Max-Min%20Difference%20at%20Most%20K/) | Medium |
@@ -221,8 +222,11 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3625 | [Count Number of Trapezoids II](./Array/Count%20Number%20of%20Trapezoids%20II/) | Hard |
 | 3637 | [Trionic Array I](./Array/Trionic%20Array%20I/) | Easy |
 | 3652 | [Best Time to Buy and Sell Stock using Strategy](./Array/Best%20Time%20to%20Buy%20and%20Sell%20Stock%20using%20Strategy/) | Medium |
+| 3718 | [Smallest Missing Multiple of K](./Array/Smallest%20Missing%20Multiple%20of%20K/) | Easy |
 | 3740 | [Minimum Distance Between Three Equal Elements I](./Array/Minimum%20Distance%20Between%20Three%20Equal%20Elements%20I/) | Easy |
 | 3867 | [Sum of GCD of Formed Pairs](./Array/Sum%20of%20GCD%20of%20Formed%20Pairs/) | Medium |
+| 3875 | [Construct Uniform Parity Array I](./Array/Construct%20Uniform%20Parity%20Array%20I/) | Easy |
+| 3876 | [Construct Uniform Parity Array II](./Array/Construct%20Uniform%20Parity%20Array%20II/) | Medium |
 
 </details>
 

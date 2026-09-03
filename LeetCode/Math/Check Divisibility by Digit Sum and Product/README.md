@@ -5,60 +5,51 @@
 
 ## Problem Statement
 
-You are given a positive integer n. Determine whether n is divisible by the sum of the following two values:
+<p>You are given a positive integer <code>n</code>. Determine whether <code>n</code> is divisible by the <strong>sum </strong>of the following two values:</p>
 
+<ul>
+	<li>
+	<p>The <strong>digit sum</strong> of <code>n</code> (the sum of its digits).</p>
+	</li>
+	<li>
+	<p>The <strong>digit</strong> <strong>product</strong> of <code>n</code> (the product of its digits).</p>
+	</li>
+</ul>
 
-	
-	The digit sum of n (the sum of its digits).
-	
-	
-	The digit product of n (the product of its digits).
-	
+<p>Return <code>true</code> if <code>n</code> is divisible by this sum; otherwise, return <code>false</code>.</p>
 
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
-Return true if n is divisible by this sum; otherwise, return false.
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 99</span></p>
 
- 
-Example 1:
+<p><strong>Output:</strong> <span class="example-io">true</span></p>
 
+<p><strong>Explanation:</strong></p>
 
-Input: n = 99
+<p>Since 99 is divisible by the sum (9 + 9 = 18) plus product (9 * 9 = 81) of its digits (total 99), the output is true.</p>
+</div>
 
-Output: true
+<p><strong class="example">Example 2:</strong></p>
 
-Explanation:
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">n = 23</span></p>
 
-Since 99 is divisible by the sum (9 + 9 = 18) plus product (9 * 9 = 81) of its digits (total 99), the output is true.
+<p><strong>Output:</strong> <span class="example-io">false</span></p>
 
+<p><strong>Explanation:</strong></p>
 
-Example 2:
+<p>Since 23 is not divisible by the sum (2 + 3 = 5) plus product (2 * 3 = 6) of its digits (total 11), the output is false.</p>
+</div>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Input: n = 23
+<ul>
+	<li><code>1 &lt;= n &lt;= 10<sup>6</sup></code></li>
+</ul>
 
-Output: false
-
-Explanation:
-
-Since 23 is not divisible by the sum (2 + 3 = 5) plus product (2 * 3 = 6) of its digits (total 11), the output is false.
-
-
- 
-Constraints:
-
-
-	1 <= n <= 106
-
-## Examples
-
-```
-See problem description.
-```
-
-## Constraints
-
-- The digit sum of n (the sum of its digits).
-- The digit product of n (the product of its digits).
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*

@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-08-27T08:42:52.647Z",
+  "lastUpdated": "2026-09-03T15:34:20.071Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1068,7 +1068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787820172646,
+              "syncedAt": 1788449660071,
               "runtime": "42 ms",
               "memory": "56.6 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -6660,9 +6660,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787288597841,
-              "runtime": "1 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1788449660071,
+              "runtime": "0 ms",
+              "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Reshape the Matrix/"
             }
           }
@@ -6681,6 +6681,87 @@
               "runtime": "N/A",
               "memory": "N/A",
               "githubPath": "LeetCode/Math/Check Divisibility by Digit Sum and Product/"
+            },
+            "java": {
+              "syncedAt": 1788449660071,
+              "runtime": "0 ms",
+              "memory": "42.1 MB",
+              "githubPath": "LeetCode/Math/Check Divisibility by Digit Sum and Product/"
+            }
+          }
+        },
+        "construct-uniform-parity-array-ii": {
+          "questionId": "3876",
+          "title": "Construct Uniform Parity Array II",
+          "titleSlug": "construct-uniform-parity-array-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788449660069,
+              "runtime": "5 ms",
+              "memory": "121.7 MB",
+              "githubPath": "LeetCode/Array/Construct Uniform Parity Array II/"
+            }
+          }
+        },
+        "construct-uniform-parity-array-i": {
+          "questionId": "3875",
+          "title": "Construct Uniform Parity Array I",
+          "titleSlug": "construct-uniform-parity-array-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Math"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788449660071,
+              "runtime": "0 ms",
+              "memory": "45.4 MB",
+              "githubPath": "LeetCode/Array/Construct Uniform Parity Array I/"
+            }
+          }
+        },
+        "minimum-moves-to-clean-the-classroom": {
+          "questionId": "3568",
+          "title": "Minimum Moves to Clean the Classroom",
+          "titleSlug": "minimum-moves-to-clean-the-classroom",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Hash Table",
+            "Bit Manipulation",
+            "Breadth-First Search",
+            "Matrix"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788449660071,
+              "runtime": "515 ms",
+              "memory": "280.8 MB",
+              "githubPath": "LeetCode/Array/Minimum Moves to Clean the Classroom/"
+            }
+          }
+        },
+        "smallest-missing-multiple-of-k": {
+          "questionId": "3718",
+          "title": "Smallest Missing Multiple of K",
+          "titleSlug": "smallest-missing-multiple-of-k",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Hash Table"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788449660071,
+              "runtime": "1 ms",
+              "memory": "44.8 MB",
+              "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
             }
           }
         }
