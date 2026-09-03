@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:37:04.488Z",
+  "lastUpdated": "2026-09-03T15:37:12.878Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -2085,7 +2085,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981819588,
+              "syncedAt": 1788449832878,
               "runtime": "0 ms",
               "memory": "42.7 MB",
               "githubPath": "LeetCode/Divide and Conquer/Number of 1 Bits/"
@@ -2108,7 +2108,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981819588,
+              "syncedAt": 1788449832878,
               "runtime": "1 ms",
               "memory": "44.2 MB",
               "githubPath": "LeetCode/Array/Minimum Pair Removal to Sort Array I/"
@@ -2126,7 +2126,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981819588,
+              "syncedAt": 1788449832878,
               "runtime": "45 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Two Sum/"
@@ -2146,7 +2146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981819588,
+              "syncedAt": 1788449832878,
               "runtime": "15 ms",
               "memory": "51.4 MB",
               "githubPath": "LeetCode/Array/Assign Cookies/"
@@ -2164,7 +2164,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981819588,
+              "syncedAt": 1788449832878,
               "runtime": "1 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Construct the Minimum Bitwise Array I/"
@@ -2183,7 +2183,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981827369,
+              "syncedAt": 1788449832878,
               "runtime": "6 ms",
               "memory": "68.3 MB",
               "githubPath": "LeetCode/Array/Maximum Matrix Sum/"
@@ -2201,7 +2201,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981827369,
+              "syncedAt": 1788449832878,
               "runtime": "0 ms",
               "memory": "47.7 MB",
               "githubPath": "LeetCode/Array/N-Repeated Element in Size 2N Array/"
