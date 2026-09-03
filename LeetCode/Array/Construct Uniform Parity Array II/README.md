@@ -1,78 +1,87 @@
 # 3876. Construct Uniform Parity Array II
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/construct-uniform-parity-array-ii/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>You are given an array <code>nums1</code> of <code>n</code> <strong>distinct</strong> integers.</p>
+You are given an array nums1 of n distinct integers.
 
-<p>You want to construct another array <code>nums2</code> of length <code>n</code> such that the elements in <code>nums2</code> are either <strong>all odd or all even</strong>.</p>
+You want to construct another array nums2 of length n such that the elements in nums2 are either all odd or all even.
 
-<p>For each index <code>i</code>, you must choose <strong>exactly one</strong> of the following (in any order):</p>
+For each index i, you must choose exactly one of the following (in any order):
 
-<ul>
-	<li><code>nums2[i] = nums1[i]</code>​​​​​​​</li>
-	<li><code>nums2[i] = nums1[i] - nums1[j]</code>, for an index <code>j != i</code>, such that <code>nums1[i] - nums1[j] &gt;= 1</code></li>
-</ul>
 
-<p>Return <code>true</code> if it is possible to construct such an array, otherwise return <code>false</code>.</p>
+	nums2[i] = nums1[i]​​​​​​​
+	nums2[i] = nums1[i] - nums1[j], for an index j != i, such that nums1[i] - nums1[j] >= 1
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums1 = [1,4,7]</span></p>
+Return true if it is possible to construct such an array, otherwise return false.
 
-<p><strong>Output:</strong> <span class="example-io">true</span></p>
+ 
+Example 1:
 
-<p><strong>Explanation:</strong>​​​​​​​​​​​​​​</p>
 
-<ul>
-	<li>Set <code>nums2[0] = nums1[0] = 1</code>.</li>
-	<li>Set <code>nums2[1] = nums1[1] - nums1[0] = 4 - 1 = 3</code>.</li>
-	<li>Set <code>nums2[2] = nums1[2] = 7</code>.</li>
-	<li><code>nums2 = [1, 3, 7]</code>, and all elements are odd. Thus, the answer is <code>true</code>.</li>
-</ul>
-</div>
+Input: nums1 = [1,4,7]
 
-<p><strong class="example">Example 2:</strong></p>
+Output: true
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums1 = [2,3]</span></p>
+Explanation:​​​​​​​​​​​​​​
 
-<p><strong>Output:</strong> <span class="example-io">false</span></p>
 
-<p><strong>Explanation:</strong></p>
+	Set nums2[0] = nums1[0] = 1.
+	Set nums2[1] = nums1[1] - nums1[0] = 4 - 1 = 3.
+	Set nums2[2] = nums1[2] = 7.
+	nums2 = [1, 3, 7], and all elements are odd. Thus, the answer is true.
 
-<p>It is not possible to construct <code>nums2</code> such that all elements have the same parity. Thus, the answer is <code>false</code>.</p>
-</div>
 
-<p><strong class="example">Example 3:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">nums1 = [4,6]</span></p>
+Example 2:
 
-<p><strong>Output:</strong> <span class="example-io">true</span></p>
 
-<p><strong>Explanation:</strong></p>
+Input: nums1 = [2,3]
 
-<ul>
-	<li>Set <code>nums2[0] = nums1[0] = 4</code>.</li>
-	<li>Set <code>nums2[1] = nums1[1] = 6</code>.</li>
-	<li><code>nums2 = [4, 6]</code>, and all elements are even. Thus, the answer is <code>true</code>.</li>
-</ul>
-</div>
+Output: false
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Explanation:
 
-<ul>
-	<li><code>1 &lt;= n == nums1.length &lt;= 10<sup>5</sup></code></li>
-	<li><code>1 &lt;= nums1[i] &lt;= 10<sup>9</sup></code></li>
-	<li><code>nums1</code> consists of distinct integers.</li>
-</ul>
+It is not possible to construct nums2 such that all elements have the same parity. Thus, the answer is false.
 
+
+Example 3:
+
+
+Input: nums1 = [4,6]
+
+Output: true
+
+Explanation:
+
+
+	Set nums2[0] = nums1[0] = 4.
+	Set nums2[1] = nums1[1] = 6.
+	nums2 = [4, 6], and all elements are even. Thus, the answer is true.
+
+
+
+ 
+Constraints:
+
+
+	1 <= n == nums1.length <= 105
+	1 <= nums1[i] <= 109
+	nums1 consists of distinct integers.
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- nums2[i] = nums1[i]​​​​​​​
+- nums2[i] = nums1[i] - nums1[j], for an index j != i, such that nums1[i] - nums1[j] >= 1
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
