@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:35:50.712Z",
+  "lastUpdated": "2026-09-03T15:35:58.471Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1146,7 +1146,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981742995,
+              "syncedAt": 1788449758471,
               "runtime": "12 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Largest Perimeter Triangle/"
@@ -1164,7 +1164,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981742995,
+              "syncedAt": 1788449758471,
               "runtime": "1 ms",
               "memory": "43.1 MB",
               "githubPath": "LeetCode/String/Rotate String/"
@@ -1184,7 +1184,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981742995,
+              "syncedAt": 1788449758471,
               "runtime": "7 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Next Greater Element I/"
@@ -1202,7 +1202,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449758471,
               "runtime": "4 ms",
               "memory": "42.1 MB",
               "githubPath": "LeetCode/Math/Rotated Digits/"
@@ -1221,7 +1221,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449758471,
               "runtime": "8 ms",
               "memory": "47.6 MB",
               "githubPath": "LeetCode/Array/Range Sum Query - Immutable/"
@@ -1240,7 +1240,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449758471,
               "runtime": "4 ms",
               "memory": "90.5 MB",
               "githubPath": "LeetCode/Array/Rotate Function/"
@@ -1258,7 +1258,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449758471,
               "runtime": "1 ms",
               "memory": "44.5 MB",
               "githubPath": "LeetCode/Array/Number of Senior Citizens/"
