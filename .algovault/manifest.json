@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:38:28.032Z",
+  "lastUpdated": "2026-09-03T15:38:51.176Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -3667,7 +3667,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "16 ms",
               "memory": "45.9 MB",
               "githubPath": "LeetCode/Array/4Sum/"
@@ -3685,7 +3685,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "0 ms",
               "memory": "42.3 MB",
               "githubPath": "LeetCode/Math/Count Operations to Obtain Zero/"
@@ -3706,7 +3706,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "26 ms",
               "memory": "69.9 MB",
               "githubPath": "LeetCode/Array/Kth Largest Element in an Array/"
@@ -3725,7 +3725,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "8 ms",
               "memory": "70.6 MB",
               "githubPath": "LeetCode/Array/Maximal Square/"
@@ -3746,7 +3746,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "0 ms",
               "memory": "42.4 MB",
               "githubPath": "LeetCode/Math/Minimum One Bit Operations to Make Integers Zero/"
@@ -3764,7 +3764,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "2 ms",
               "memory": "47 MB",
               "githubPath": "LeetCode/Array/Minimum Moves to Equal Array Elements/"
@@ -3783,7 +3783,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "51 ms",
               "memory": "95.7 MB",
               "githubPath": "LeetCode/Array/Minimum Number of Arrows to Burst Balloons/"
@@ -3805,7 +3805,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981929150,
+              "syncedAt": 1788449931176,
               "runtime": "28 ms",
               "memory": "81.6 MB",
               "githubPath": "LeetCode/Array/Maximize the Minimum Powered City/"
@@ -3823,7 +3823,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947891,
+              "syncedAt": 1788449931176,
               "runtime": "1 ms",
               "memory": "42.6 MB",
               "githubPath": "LeetCode/Array/Pascal's Triangle II/"
@@ -3842,7 +3842,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947891,
+              "syncedAt": 1788449931176,
               "runtime": "6 ms",
               "memory": "43.2 MB",
               "githubPath": "LeetCode/Array/H-Index/"
@@ -3860,7 +3860,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449931176,
               "runtime": "10 ms",
               "memory": "46.6 MB",
               "githubPath": "LeetCode/Array/Triangle/"
@@ -3884,7 +3884,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449931176,
               "runtime": "123 ms",
               "memory": "248.3 MB",
               "githubPath": "LeetCode/Array/Power Grid Maintenance/"
@@ -3904,7 +3904,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449931176,
               "runtime": "3 ms",
               "memory": "46.3 MB",
               "githubPath": "LeetCode/Math/Super Pow/"
@@ -3923,7 +3923,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449931176,
               "runtime": "6 ms",
               "memory": "53.8 MB",
               "githubPath": "LeetCode/Math/Gray Code/"
@@ -3942,7 +3942,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981947892,
+              "syncedAt": 1788449931176,
               "runtime": "0 ms",
               "memory": "43.5 MB",
               "githubPath": "LeetCode/Array/Rotate Image/"
