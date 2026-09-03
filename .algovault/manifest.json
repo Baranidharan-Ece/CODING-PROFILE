@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:35:58.471Z",
+  "lastUpdated": "2026-09-03T15:36:09.783Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1277,7 +1277,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449769783,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Merge Two 2D Arrays by Summing Values/"
@@ -1295,7 +1295,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981751706,
+              "syncedAt": 1788449769783,
               "runtime": "1 ms",
               "memory": "46.9 MB",
               "githubPath": "LeetCode/Array/Find Words Containing Character/"
@@ -1313,7 +1313,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981758783,
+              "syncedAt": 1788449769783,
               "runtime": "2 ms",
               "memory": "43.9 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Number of Words You Can Type/"
@@ -1331,7 +1331,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981758783,
+              "syncedAt": 1788449769783,
               "runtime": "7 ms",
               "memory": "46 MB",
               "githubPath": "LeetCode/Math/Power of Three/"
@@ -1349,7 +1349,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981758783,
+              "syncedAt": 1788449769783,
               "runtime": "1 ms",
               "memory": "43.6 MB",
               "githubPath": "LeetCode/String/Furthest Point From Origin/"
