@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-03T15:34:20.071Z",
+  "lastUpdated": "2026-09-03T15:34:30.420Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6560,9 +6560,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649093,
-              "runtime": "17 ms",
-              "memory": "46.9 MB",
+              "syncedAt": 1788449670420,
+              "runtime": "16 ms",
+              "memory": "47.1 MB",
               "githubPath": "LeetCode/Array/Short Encoding of Words/"
             }
           }
@@ -6579,7 +6579,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1786981649095,
+              "syncedAt": 1788449670420,
               "runtime": "1 ms",
               "memory": "43.4 MB",
               "githubPath": "LeetCode/Hash Table/Maximum Length Substring With Two Occurrences/"
@@ -6597,7 +6597,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787047544089,
+              "syncedAt": 1788449670420,
               "runtime": "1 ms",
               "memory": "44.6 MB",
               "githubPath": "LeetCode/Array/Find the Largest Almost Missing Integer/"
@@ -6617,9 +6617,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787133278501,
+              "syncedAt": 1788449670419,
               "runtime": "17 ms",
-              "memory": "52.5 MB",
+              "memory": "52.4 MB",
               "githubPath": "LeetCode/Array/Cinema Seat Allocation/"
             },
             "24252627282930313233343536                        maxfamilies -= 2;                         if (left && right) {                maxfamilies += 2;            } else if (left || right || mid) {                maxfamilies += 1;            }        }                return maxfamilies;    }}": {
@@ -6641,9 +6641,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1787221612880,
+              "syncedAt": 1788449670407,
               "runtime": "1 ms",
-              "memory": "46.6 MB",
+              "memory": "46.7 MB",
               "githubPath": "LeetCode/Array/Distribute Elements Into Two Arrays I/"
             }
           }
