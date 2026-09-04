@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-04T22:52:45.028Z",
+  "lastUpdated": "2026-09-04T22:56:31.556Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6768,6 +6768,24 @@
               "runtime": "1 ms",
               "memory": "44.8 MB",
               "githubPath": "LeetCode/Array/Smallest Missing Multiple of K/"
+            }
+          }
+        },
+        "smallest-stable-index-i": {
+          "questionId": "3903",
+          "title": "Smallest Stable Index I",
+          "titleSlug": "smallest-stable-index-i",
+          "difficulty": "Easy",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788562591554,
+              "runtime": "1 ms",
+              "memory": "46.5 MB",
+              "githubPath": "LeetCode/Array/Smallest Stable Index I/"
             }
           }
         }
