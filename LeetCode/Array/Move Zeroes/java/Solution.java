@@ -1,19 +1,22 @@
 class Solution {
-    public void moveZeroes(int[] nums) {
-        int ind = 0; 
-
+    public void moveZeroes(int[] arr) {
+       
         
-        for (int i = 0; i < nums.length; i++) {
-            if (nums[i] != 0) {
-                nums[ind] = nums[i];
-                ind++;
-            }
-        }
-
         
-        while (ind < nums.length) {
-            nums[ind] = 0;
-            ind++;
+        
+        int end=0;
+        
+        for(int start=0;start<arr.length;start++){
+            if(arr[start]!=0){
+                
+            int temp=arr[start];
+            arr[start]=arr[end];
+            arr[end]=temp;
+            
+            end++;
         }
+        }
+    System.out.println(Arrays.toString(arr));
+    
     }
 }
