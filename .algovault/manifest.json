@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-04T23:32:40.464Z",
+  "lastUpdated": "2026-09-05T14:49:02.898Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6792,6 +6792,24 @@
               "runtime": "1 ms",
               "memory": "46.5 MB",
               "githubPath": "LeetCode/Array/Smallest Stable Index I/"
+            }
+          }
+        },
+        "smallest-stable-index-ii": {
+          "questionId": "3904",
+          "title": "Smallest Stable Index II",
+          "titleSlug": "smallest-stable-index-ii",
+          "difficulty": "Medium",
+          "tags": [
+            "Array",
+            "Prefix Sum"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788619742896,
+              "runtime": "2 ms",
+              "memory": "125.3 MB",
+              "githubPath": "LeetCode/Array/Smallest Stable Index II/"
             }
           }
         }

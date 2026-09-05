@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1788564760535" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1788619742953" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -228,6 +228,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 3875 | [Construct Uniform Parity Array I](./Array/Construct%20Uniform%20Parity%20Array%20I/) | Easy |
 | 3876 | [Construct Uniform Parity Array II](./Array/Construct%20Uniform%20Parity%20Array%20II/) | Medium |
 | 3903 | [Smallest Stable Index I](./Array/Smallest%20Stable%20Index%20I/) | Easy |
+| 3904 | [Smallest Stable Index II](./Array/Smallest%20Stable%20Index%20II/) | Medium |
 
 </details>
 
