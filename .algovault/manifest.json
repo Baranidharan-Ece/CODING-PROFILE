@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-05T14:49:02.898Z",
+  "lastUpdated": "2026-09-05T16:43:08.545Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -4845,6 +4845,12 @@
               "syncedAt": 1786982012919,
               "runtime": "2 ms",
               "memory": "47.4 MB",
+              "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
+            },
+            "131211109876514                end--;            else if(sum > target){            }                return new int[]{start+1,end+1};            if(sum == target){            int sum=numbers[start]+numbers[end];        while(start<end){        int end=numbers.length-1;            }": {
+              "syncedAt": 1788626588543,
+              "runtime": "0 ms",
+              "memory": "48.55 MB",
               "githubPath": "LeetCode/Array/Two Sum II - Input Array Is Sorted/"
             }
           }

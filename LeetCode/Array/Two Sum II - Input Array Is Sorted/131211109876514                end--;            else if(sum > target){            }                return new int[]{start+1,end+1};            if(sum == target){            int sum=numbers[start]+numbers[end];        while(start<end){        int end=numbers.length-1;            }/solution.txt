@@ -1,0 +1,10 @@
+                end--;
+            else if(sum > target){
+            }
+                return new int[]{start+1,end+1};
+            if(sum == target){
+            int sum=numbers[start]+numbers[end];
+        while(start<end){
+
+        int end=numbers.length-1;
+            }
