@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-05T16:43:08.545Z",
+  "lastUpdated": "2026-09-06T15:23:14.903Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6816,6 +6816,24 @@
               "runtime": "2 ms",
               "memory": "125.3 MB",
               "githubPath": "LeetCode/Array/Smallest Stable Index II/"
+            }
+          }
+        },
+        "distinct-subsequences": {
+          "questionId": "115",
+          "title": "Distinct Subsequences",
+          "titleSlug": "distinct-subsequences",
+          "difficulty": "Hard",
+          "tags": [
+            "String",
+            "Dynamic Programming"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1788708194901,
+              "runtime": "21 ms",
+              "memory": "54.2 MB",
+              "githubPath": "LeetCode/String/Distinct Subsequences/"
             }
           }
         }
