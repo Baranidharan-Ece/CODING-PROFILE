@@ -5,60 +5,50 @@
 
 ## Problem Statement
 
-Given a valid parentheses string s, return the nesting depth of s. The nesting depth is the maximum number of nested parentheses.
+<p>Given a <strong>valid parentheses string</strong> <code>s</code>, return the <strong>nesting depth</strong> of<em> </em><code>s</code>. The nesting depth is the <strong>maximum</strong> number of nested parentheses.</p>
 
- 
-Example 1:
+<p>&nbsp;</p>
+<p><strong class="example">Example 1:</strong></p>
 
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;(1+(2*3)+((8)/4))+1&quot;</span></p>
 
-Input: s = "(1+(2*3)+((8)/4))+1"
+<p><strong>Output:</strong> <span class="example-io">3</span></p>
 
-Output: 3
+<p><strong>Explanation:</strong></p>
 
-Explanation:
+<p>Digit 8 is inside of 3 nested parentheses in the string.</p>
+</div>
 
-Digit 8 is inside of 3 nested parentheses in the string.
+<p><strong class="example">Example 2:</strong></p>
 
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;(1)+((2))+(((3)))&quot;</span></p>
 
-Example 2:
+<p><strong>Output:</strong> <span class="example-io">3</span></p>
 
+<p><strong>Explanation:</strong></p>
 
-Input: s = "(1)+((2))+(((3)))"
+<p>Digit 3 is inside of 3 nested parentheses in the string.</p>
+</div>
 
-Output: 3
+<p><strong class="example">Example 3:</strong></p>
 
-Explanation:
+<div class="example-block">
+<p><strong>Input:</strong> <span class="example-io">s = &quot;()(())((()()))&quot;</span></p>
 
-Digit 3 is inside of 3 nested parentheses in the string.
+<p><strong>Output:</strong> <span class="example-io">3</span></p>
+</div>
 
+<p>&nbsp;</p>
+<p><strong>Constraints:</strong></p>
 
-Example 3:
+<ul>
+	<li><code>1 &lt;= s.length &lt;= 100</code></li>
+	<li><code>s</code> consists of digits <code>0-9</code> and characters <code>&#39;+&#39;</code>, <code>&#39;-&#39;</code>, <code>&#39;*&#39;</code>, <code>&#39;/&#39;</code>, <code>&#39;(&#39;</code>, and <code>&#39;)&#39;</code>.</li>
+	<li>It is guaranteed that parentheses expression <code>s</code> is a VPS.</li>
+</ul>
 
-
-Input: s = "()(())((()()))"
-
-Output: 3
-
-
- 
-Constraints:
-
-
-	1 <= s.length <= 100
-	s consists of digits 0-9 and characters '+', '-', '*', '/', '(', and ')'.
-	It is guaranteed that parentheses expression s is a VPS.
-
-## Examples
-
-```
-See problem description.
-```
-
-## Constraints
-
-- 1 <= s.length <= 100
-- s consists of digits 0-9 and characters '+', '-', '*', '/', '(', and ')'.
-- It is guaranteed that parentheses expression s is a VPS.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
