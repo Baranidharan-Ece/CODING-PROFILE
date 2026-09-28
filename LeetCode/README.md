@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1788708194983" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1790589081856" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -454,6 +454,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 657 | [Robot Return to Origin](./String/Robot%20Return%20to%20Origin/) | Easy |
 | 796 | [Rotate String](./String/Rotate%20String/) | Easy |
 | 1456 | [Maximum Number of Vowels in a Substring of Given Length](./String/Maximum%20Number%20of%20Vowels%20in%20a%20Substring%20of%20Given%20Length/) | Medium |
+| 1614 | [Maximum Nesting Depth of the Parentheses](./String/Maximum%20Nesting%20Depth%20of%20the%20Parentheses/) | Easy |
 | 1784 | [Check if Binary String Has at Most One Segment of Ones](./String/Check%20if%20Binary%20String%20Has%20at%20Most%20One%20Segment%20of%20Ones/) | Easy |
 | 2211 | [Count Collisions on a Road](./String/Count%20Collisions%20on%20a%20Road/) | Medium |
 | 2483 | [Minimum Penalty for a Shop](./String/Minimum%20Penalty%20for%20a%20Shop/) | Medium |

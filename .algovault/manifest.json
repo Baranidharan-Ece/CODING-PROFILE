@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-06T15:23:14.903Z",
+  "lastUpdated": "2026-09-28T09:51:21.799Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6834,6 +6834,25 @@
               "runtime": "21 ms",
               "memory": "54.2 MB",
               "githubPath": "LeetCode/String/Distinct Subsequences/"
+            }
+          }
+        },
+        "maximum-nesting-depth-of-the-parentheses": {
+          "questionId": "1614",
+          "title": "Maximum Nesting Depth of the Parentheses",
+          "titleSlug": "maximum-nesting-depth-of-the-parentheses",
+          "difficulty": "Easy",
+          "tags": [
+            "String",
+            "Stack",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "12345678910class solution {    public int maxdepth(string s) {        int depth = 0;        int r = 0;        for (char c : s.tochararray()) {            if (c == ')') {                depth--;                continue;            }": {
+              "syncedAt": 1790589081797,
+              "runtime": "0 ms",
+              "memory": "42.95 MB",
+              "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
             }
           }
         }
