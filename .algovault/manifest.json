@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-28T09:52:06.292Z",
+  "lastUpdated": "2026-09-30T08:21:57.355Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6853,6 +6853,24 @@
               "runtime": "0 ms",
               "memory": "42.9 MB",
               "githubPath": "LeetCode/String/Maximum Nesting Depth of the Parentheses/"
+            }
+          }
+        },
+        "second-largest-digit-in-a-string": {
+          "questionId": "1796",
+          "title": "Second Largest Digit in a String",
+          "titleSlug": "second-largest-digit-in-a-string",
+          "difficulty": "Easy",
+          "tags": [
+            "Hash Table",
+            "String"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790756517352,
+              "runtime": "1 ms",
+              "memory": "43.1 MB",
+              "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
             }
           }
         }

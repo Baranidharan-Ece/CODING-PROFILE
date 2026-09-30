@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1790589126342" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1790756517410" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -335,6 +335,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 451 | [Sort Characters By Frequency](./Hash%20Table/Sort%20Characters%20By%20Frequency/) | Medium |
 | 756 | [Pyramid Transition Matrix](./Hash%20Table/Pyramid%20Transition%20Matrix/) | Medium |
 | 1015 | [Smallest Integer Divisible by K](./Hash%20Table/Smallest%20Integer%20Divisible%20by%20K/) | Medium |
+| 1796 | [Second Largest Digit in a String](./Hash%20Table/Second%20Largest%20Digit%20in%20a%20String/) | Easy |
 | 1930 | [Unique Length-3 Palindromic Subsequences](./Hash%20Table/Unique%20Length-3%20Palindromic%20Subsequences/) | Medium |
 | 1935 | [Maximum Number of Words You Can Type](./Hash%20Table/Maximum%20Number%20of%20Words%20You%20Can%20Type/) | Easy |
 | 3090 | [Maximum Length Substring With Two Occurrences](./Hash%20Table/Maximum%20Length%20Substring%20With%20Two%20Occurrences/) | Easy |
