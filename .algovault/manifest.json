@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T08:28:56.244Z",
+  "lastUpdated": "2026-09-30T08:52:46.471Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6870,6 +6870,12 @@
               "syncedAt": 1790756936243,
               "runtime": "1 ms",
               "memory": "43.7 MB",
+              "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
+            },
+            "34567891011121314151617181920222121        int max = -1;        int res = -1;        for (int i = 0; i < s.length(); i++) {            char ch = s.charat(i);            if (ch >= '0' && ch <= '9') {                int digit = ch - '0';                if (digit > max) {                    res = max;                    max = digit;                }                 else if (digit < max && digit > res) {                    res = digit;                }            }        }    }         return res;    public int secondhighest(string s) {class solution {": {
+              "syncedAt": 1790758366469,
+              "runtime": "N/A",
+              "memory": "N/A",
               "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
             }
           }

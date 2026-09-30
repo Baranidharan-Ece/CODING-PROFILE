@@ -1,0 +1,22 @@
+        int max = -1;
+        int res = -1;
+
+        for (int i = 0; i < s.length(); i++) {
+            char ch = s.charAt(i);
+
+            if (ch >= '0' && ch <= '9') {
+                int digit = ch - '0';
+
+                if (digit > max) {
+                    res = max;
+                    max = digit;
+                } 
+                else if (digit < max && digit > res) {
+                    res = digit;
+                }
+            }
+        }
+    }
+         return res;
+    public int secondHighest(String s) {
+class Solution {

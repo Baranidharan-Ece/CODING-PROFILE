@@ -5,35 +5,48 @@
 
 ## Problem Statement
 
-<p>Given an alphanumeric string <code>s</code>, return <em>the <strong>second largest</strong> numerical digit that appears in </em><code>s</code><em>, or </em><code>-1</code><em> if it does not exist</em>.</p>
+Given an alphanumeric string s, return the second largest numerical digit that appears in s, or -1 if it does not exist.
 
-<p>An <strong>alphanumeric</strong><strong> </strong>string is a string consisting of lowercase English letters and digits.</p>
+An alphanumeric string is a string consisting of lowercase English letters and digits.
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+ 
+Example 1:
 
-<pre>
-<strong>Input:</strong> s = &quot;dfa12321afd&quot;
-<strong>Output:</strong> 2
-<strong>Explanation:</strong> The digits that appear in s are [1, 2, 3]. The second largest digit is 2.
-</pre>
+Input: s = "dfa12321afd"
+Output: 2
+Explanation: The digits that appear in s are [1, 2, 3]. The second largest digit is 2.
 
-<p><strong class="example">Example 2:</strong></p>
 
-<pre>
-<strong>Input:</strong> s = &quot;abc1111&quot;
-<strong>Output:</strong> -1
-<strong>Explanation:</strong> The digits that appear in s are [1]. There is no second largest digit. 
-</pre>
+Example 2:
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
+Input: s = "abc1111"
+Output: -1
+Explanation: The digits that appear in s are [1]. There is no second largest digit. 
 
-<ul>
-	<li><code>1 &lt;= s.length &lt;= 500</code></li>
-	<li><code>s</code> consists of only lowercase English letters and digits.</li>
-</ul>
 
+ 
+Constraints:
+
+
+	1 <= s.length <= 500
+	s consists of only lowercase English letters and digits.
+
+## Examples
+
+```
+Input: s = "dfa12321afd"
+Output: 2
+Explanation: The digits that appear in s are [1, 2, 3]. The second largest digit is 2.
+
+Input: s = "abc1111"
+Output: -1
+Explanation: The digits that appear in s are [1]. There is no second largest digit.
+```
+
+## Constraints
+
+- 1 <= s.length <= 500
+- s consists of only lowercase English letters and digits.
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
