@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-09-30T08:21:57.355Z",
+  "lastUpdated": "2026-09-30T08:28:56.244Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6867,9 +6867,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790756517352,
+              "syncedAt": 1790756936243,
               "runtime": "1 ms",
-              "memory": "43.1 MB",
+              "memory": "43.7 MB",
               "githubPath": "LeetCode/Hash Table/Second Largest Digit in a String/"
             }
           }
