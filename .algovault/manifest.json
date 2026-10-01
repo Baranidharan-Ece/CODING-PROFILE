@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-01T04:27:32.338Z",
+  "lastUpdated": "2026-10-01T04:28:40.016Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1732,9 +1732,9 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790828852337,
-              "runtime": "3 ms",
-              "memory": "43.3 MB",
+              "syncedAt": 1790828920014,
+              "runtime": "2 ms",
+              "memory": "43.2 MB",
               "githubPath": "LeetCode/String/Valid Parentheses/"
             },
             "12345678910111213141516171819202122class solution {    public boolean isvalid(string s) {        stack<character>st=new stack<>();        for(char c:s.tochararray()){            if(c=='{' || c=='(' || c=='['){                st.push(c);            }            else{                if(st.isempty()){                    return false;                }                char ch=st.pop();                if(c==']' && ch!='[')return false;                if(c=='}' && ch!='{')return false;                if(c==')' && ch!='(')return false;            }        }        return st.isempty();    }}": {
