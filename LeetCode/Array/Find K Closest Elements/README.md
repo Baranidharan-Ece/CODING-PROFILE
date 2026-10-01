@@ -1,46 +1,55 @@
 # 658. Find K Closest Elements
 
 [![LeetCode Link](https://img.shields.io/badge/LeetCode-Problem_Link-FFA116?style=flat-square&logo=leetcode)](https://leetcode.com/problems/find-k-closest-elements/)
-![Difficulty](https://img.shields.io/badge/Difficulty-Medium-eab308?style=flat-square)
+![Difficulty](https://img.shields.io/badge/Difficulty-Easy-22c55e?style=flat-square)
 
 ## Problem Statement
 
-<p>Given a <strong>sorted</strong> integer array <code>arr</code>, two integers <code>k</code> and <code>x</code>, return the <code>k</code> closest integers to <code>x</code> in the array. The result should also be sorted in ascending order.</p>
+Given a sorted integer array arr, two integers k and x, return the k closest integers to x in the array. The result should also be sorted in ascending order.
 
-<p>An integer <code>a</code> is closer to <code>x</code> than an integer <code>b</code> if:</p>
+An integer a is closer to x than an integer b if:
 
-<ul>
-	<li><code>|a - x| &lt; |b - x|</code>, or</li>
-	<li><code>|a - x| == |b - x|</code> and <code>a &lt; b</code></li>
-</ul>
 
-<p>&nbsp;</p>
-<p><strong class="example">Example 1:</strong></p>
+	|a - x| < |b - x|, or
+	|a - x| == |b - x| and a < b
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">arr = [1,2,3,4,5], k = 4, x = 3</span></p>
 
-<p><strong>Output:</strong> <span class="example-io">[1,2,3,4]</span></p>
-</div>
+ 
+Example 1:
 
-<p><strong class="example">Example 2:</strong></p>
 
-<div class="example-block">
-<p><strong>Input:</strong> <span class="example-io">arr = [1,1,2,3,4,5], k = 4, x = -1</span></p>
+Input: arr = [1,2,3,4,5], k = 4, x = 3
 
-<p><strong>Output:</strong> <span class="example-io">[1,1,2,3]</span></p>
-</div>
+Output: [1,2,3,4]
 
-<p>&nbsp;</p>
-<p><strong>Constraints:</strong></p>
 
-<ul>
-	<li><code>1 &lt;= k &lt;= arr.length</code></li>
-	<li><code>1 &lt;= arr.length &lt;= 10<sup>4</sup></code></li>
-	<li><code>arr</code> is sorted in <strong>ascending</strong> order.</li>
-	<li><code>-10<sup>4</sup> &lt;= arr[i], x &lt;= 10<sup>4</sup></code></li>
-</ul>
+Example 2:
 
+
+Input: arr = [1,1,2,3,4,5], k = 4, x = -1
+
+Output: [1,1,2,3]
+
+
+ 
+Constraints:
+
+
+	1 <= k <= arr.length
+	1 <= arr.length <= 104
+	arr is sorted in ascending order.
+	-104 <= arr[i], x <= 104
+
+## Examples
+
+```
+See problem description.
+```
+
+## Constraints
+
+- |a - x| < |b - x|, or
+- |a - x| == |b - x| and a < b
 
 ---
 *Synced automatically with [AlgoVault](https://github.com/mr-sanjai-offl/AlgoVault)*
