@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-01T08:37:55.442Z",
+  "lastUpdated": "2026-10-01T08:38:25.485Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -1068,7 +1068,7 @@
           ],
           "solutions": {
             "java": {
-              "syncedAt": 1790843172472,
+              "syncedAt": 1790843905484,
               "runtime": "49 ms",
               "memory": "57.1 MB",
               "githubPath": "LeetCode/Array/Count Number of Nice Subarrays/"
@@ -6904,12 +6904,6 @@
               "syncedAt": 1790843818628,
               "runtime": "4 ms",
               "memory": "47.5 MB",
-              "githubPath": "LeetCode/Array/Find K Closest Elements/"
-            },
-            "3456789101112131415161718192021        int left=0;        int right =arr.length-1;        list<integer>list=new arraylist<>();        while(right - left+1 > k){            if(math.abs(arr[left]-x)>math.abs(arr[right]-x)){                left++;            }            else{                right--;            }        }        for(int i=left;i<=right;i++){            list.add(arr[i]);        }        return list;    }}    public list<integer> findclosestelements(int[] arr, int k, int x) {class solution {": {
-              "syncedAt": 1790843875440,
-              "runtime": "0 ms",
-              "memory": "N/A",
               "githubPath": "LeetCode/Array/Find K Closest Elements/"
             }
           }
