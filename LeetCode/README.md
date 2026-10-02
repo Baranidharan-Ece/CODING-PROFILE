@@ -4,7 +4,7 @@
 A professionally structured collection of topic-wise DSA solutions, optimized coding patterns, and interview-focused problem solving designed for technical excellence, competitive programming, and software engineering career growth.
 
 <p align="center">
-  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1790843905493" width="100%" />
+  <img src="https://github-readme-leetcode-card.romitsagu.com/BARANIDHARAN-ECE?theme=tokyonight&show=graph,recent&v=1790949105322" width="100%" />
 </p>
 
 # 📚 Structured Problem Solving Topics
@@ -447,6 +447,7 @@ A professionally structured collection of topic-wise DSA solutions, optimized co
 | 6 | [Zigzag Conversion](./String/Zigzag%20Conversion/) | Medium |
 | 8 | [String to Integer (atoi)](./String/String%20to%20Integer%20(atoi)/) | Medium |
 | 20 | [Valid Parentheses](./String/Valid%20Parentheses/) | Easy |
+| 22 | [Generate Parentheses](./String/Generate%20Parentheses/) | Medium |
 | 38 | [Count and Say](./String/Count%20and%20Say/) | Medium |
 | 58 | [Length of Last Word](./String/Length%20of%20Last%20Word/) | Easy |
 | 115 | [Distinct Subsequences](./String/Distinct%20Subsequences/) | Hard |

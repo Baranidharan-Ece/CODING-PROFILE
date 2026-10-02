@@ -1,6 +1,6 @@
 {
   "version": "3.0.0",
-  "lastUpdated": "2026-10-01T08:38:25.485Z",
+  "lastUpdated": "2026-10-02T13:51:45.251Z",
   "platforms": {
     "leetcode": {
       "submissions": {
@@ -6905,6 +6905,26 @@
               "runtime": "4 ms",
               "memory": "47.5 MB",
               "githubPath": "LeetCode/Array/Find K Closest Elements/"
+            }
+          }
+        },
+        "generate-parentheses": {
+          "questionId": "22",
+          "title": "Generate Parentheses",
+          "titleSlug": "generate-parentheses",
+          "difficulty": "Medium",
+          "tags": [
+            "String",
+            "Dynamic Programming",
+            "Backtracking",
+            "Bracket Sequences"
+          ],
+          "solutions": {
+            "java": {
+              "syncedAt": 1790949105249,
+              "runtime": "3 ms",
+              "memory": "45.1 MB",
+              "githubPath": "LeetCode/String/Generate Parentheses/"
             }
           }
         }
